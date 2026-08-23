@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H1-NONE-Q009",
+  "question_text": "図のような電熱器 H 1 台と電動機 M 2 台が 接続された単相 2 線式の低圧屋内幹線がある。 この幹線の太さを決定する根拠となる電流 I ［ A ］ と幹線に施設しなければならない過電流 W 遮断器の定格電流を決定する根拠となる電流 I ［ A ］の組合せとして， 適切なものは 。 B ただし，需要率は 100 ％とする。 イ Ｂ 幹 線 定格電流 10 A Ｂ Ｈ Ｂ Ｍ 定格電流 20 A 定格電流 20 A Ｂ Ｍ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2024-H1-NONE-Q009.png",
+  "wiring_diagram_image": null
+}

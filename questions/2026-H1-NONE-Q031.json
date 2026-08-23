@@ -1,0 +1,13 @@
+{
+  "qid": "2026-H1-NONE-Q031",
+  "question_text": "①で示す部分の小勢力回路で使用できる電圧 の最大値［ V ］は。",
+  "choices": {
+    "イ": null,
+    "ロ": "． 24",
+    "ハ": "． 30",
+    "ニ": "． 40 ． 60"
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2026-H1-NONE-Q031.png",
+  "wiring_diagram_image": "diagrams/2026-H1-NONE-wiring.png"
+}

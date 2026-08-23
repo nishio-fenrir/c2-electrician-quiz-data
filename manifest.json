@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "question_count": 10,
+  "questions": [
+    {
+      "qid": "2026-H1-NONE-Q002",
+      "year": 2026,
+      "term": "H1",
+      "session": "NONE",
+      "question_no": 2,
+      "topic": "基礎理論",
+      "has_visual": false,
+      "requires_wiring_diagram": false,
+      "question_json_path": "questions/2026-H1-NONE-Q002.json",
+      "poc_category": "text_only"
+    },
+    {
+      "qid": "2025-H1-NONE-Q012",
+      "year": 2025,
+      "term": "H1",
+      "session": "NONE",
+      "question_no": 12,
+      "topic": "配線設計",
+      "has_visual": false,
+      "requires_wiring_diagram": false,
+      "question_json_path": "questions/2025-H1-NONE-Q012.json",
+      "poc_category": "text_only"
+    },
+    {
+      "qid": "2024-H2-NONE-Q021",
+      "year": 2024,
+      "term": "H2",
+      "session": "NONE",
+      "question_no": 21,
+      "topic": "施工方法",
+      "has_visual": false,
+      "requires_wiring_diagram": false,
+      "question_json_path": "questions/2024-H2-NONE-Q021.json",
+      "poc_category": "text_only"
+    },
+    {
+      "qid": "2026-H1-NONE-Q001",
+      "year": 2026,
+      "term": "H1",
+      "session": "NONE",
+      "question_no": 1,
+      "topic": "基礎理論",
+      "has_visual": true,
+      "requires_wiring_diagram": false,
+      "question_json_path": "questions/2026-H1-NONE-Q001.json",
+      "poc_category": "diagram"
+    },
+    {
+      "qid": "2025-H2-NONE-Q004",
+      "year": 2025,
+      "term": "H2",
+      "session": "NONE",
+      "question_no": 4,
+      "topic": "基礎理論",
+      "has_visual": true,
+      "requires_wiring_diagram": false,
+      "question_json_path": "questions/2025-H2-NONE-Q004.json",
+      "poc_category": "diagram"
+    },
+    {
+      "qid": "2024-H1-NONE-Q009",
+      "year": 2024,
+      "term": "H1",
+      "session": "NONE",
+      "question_no": 9,
+      "topic": "電気機器",
+      "has_visual": true,
+      "requires_wiring_diagram": false,
+      "question_json_path": "questions/2024-H1-NONE-Q009.json",
+      "poc_category": "diagram"
+    },
+    {
+      "qid": "2025-H2-NONE-Q017",
+      "year": 2025,
+      "term": "H2",
+      "session": "NONE",
+      "question_no": 17,
+      "topic": "写真鑑別",
+      "has_visual": true,
+      "requires_wiring_diagram": false,
+      "question_json_path": "questions/2025-H2-NONE-Q017.json",
+      "poc_category": "photo"
+    },
+    {
+      "qid": "2024-H1-NONE-Q016",
+      "year": 2024,
+      "term": "H1",
+      "session": "NONE",
+      "question_no": 16,
+      "topic": "写真鑑別",
+      "has_visual": true,
+      "requires_wiring_diagram": false,
+      "question_json_path": "questions/2024-H1-NONE-Q016.json",
+      "poc_category": "photo"
+    },
+    {
+      "qid": "2026-H1-NONE-Q031",
+      "year": 2026,
+      "term": "H1",
+      "session": "NONE",
+      "question_no": 31,
+      "topic": "配線図",
+      "has_visual": true,
+      "requires_wiring_diagram": true,
+      "question_json_path": "questions/2026-H1-NONE-Q031.json",
+      "poc_category": "wiring"
+    },
+    {
+      "qid": "2025-H2-NONE-Q050",
+      "year": 2025,
+      "term": "H2",
+      "session": "NONE",
+      "question_no": 50,
+      "topic": "配線図",
+      "has_visual": true,
+      "requires_wiring_diagram": true,
+      "question_json_path": "questions/2025-H2-NONE-Q050.json",
+      "poc_category": "wiring"
+    }
+  ]
+}

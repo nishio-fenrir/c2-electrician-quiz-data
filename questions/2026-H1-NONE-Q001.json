@@ -1,0 +1,13 @@
+{
+  "qid": "2026-H1-NONE-Q001",
+  "question_text": "図のような回路で，端子 間の合成抵抗 ab ［ 5 W 5 W a b 5 W",
+  "choices": {
+    "イ": "． 2.5",
+    "ロ": "． 5",
+    "ハ": "． 7.5",
+    "ニ": "． 15"
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2026-H1-NONE-Q001.png",
+  "wiring_diagram_image": null
+}
