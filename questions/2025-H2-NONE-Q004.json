@@ -9,5 +9,39 @@
   },
   "correct_answer": "イ",
   "question_image": "images/2025-H2-NONE-Q004.png",
-  "wiring_diagram_image": null
+  "wiring_diagram_image": null,
+  "question_images": [
+    "images/2025-H2-NONE-Q004_part1.png",
+    "images/2025-H2-NONE-Q004_part2.png"
+  ],
+  "question_image_display": "ordered_parts_preferred",
+  "image_qa": {
+    "status": "PASS_MANUAL",
+    "render_dpi": 300,
+    "source_pdf_page": 404,
+    "automatic_checks": {
+      "method": "pdf_coordinate_text_layer",
+      "target_question_number": true,
+      "choice_labels": {
+        "イ": true,
+        "ロ": true,
+        "ハ": true,
+        "ニ": true
+      },
+      "question_text_start": true,
+      "question_text_end": false,
+      "auto_pass": false
+    },
+    "manual_review": {
+      "result": "PASS",
+      "reviewed_on": "2026-08-24",
+      "reason": "抽出テキスト末尾は図中ラベル順のため、問題文・回路図・波形4選択肢を目視確認",
+      "question_number_present": true,
+      "question_text_complete": true,
+      "visual_content_complete": true,
+      "all_four_choices_present": true,
+      "header_or_adjacent_question_absent": true,
+      "mobile_legibility": "PASS"
+    }
+  }
 }

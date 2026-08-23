@@ -4,5 +4,34 @@
   "choices": null,
   "correct_answer": "ハ",
   "question_image": "images/2021-H1-PM-Q009.png",
-  "wiring_diagram_image": null
+  "wiring_diagram_image": null,
+  "question_images": [
+    "images/2021-H1-PM-Q009_part1.png",
+    "images/2021-H1-PM-Q009_part2.png"
+  ],
+  "question_image_display": "ordered_parts_preferred",
+  "image_qa": {
+    "status": "PASS_MANUAL",
+    "render_dpi": 300,
+    "source_pdf_page": 167,
+    "automatic_checks": {
+      "method": "manual_required_no_ocr",
+      "target_question_number": null,
+      "choice_labels": null,
+      "question_text_start": null,
+      "question_text_end": null,
+      "auto_pass": false
+    },
+    "manual_review": {
+      "result": "PASS",
+      "reviewed_on": "2026-08-24",
+      "reason": "OCRを使用せず、問番号・長文・回路図・表・4選択肢を目視確認",
+      "question_number_present": true,
+      "question_text_complete": true,
+      "visual_content_complete": true,
+      "all_four_choices_present": true,
+      "header_or_adjacent_question_absent": true,
+      "mobile_legibility": "PASS"
+    }
+  }
 }

@@ -35,7 +35,14 @@
       "has_visual": true,
       "requires_wiring_diagram": false,
       "display_mode": "image",
-      "question_json_path": "questions/2016-H2-NONE-Q001.json"
+      "question_json_path": "questions/2016-H2-NONE-Q001.json",
+      "question_images": [
+        "images/2016-H2-NONE-Q001_part1.png",
+        "images/2016-H2-NONE-Q001_part2.png"
+      ],
+      "question_image_count": 2,
+      "question_image_display": "ordered_parts_preferred",
+      "image_qa_status": "PASS_MANUAL"
     },
     {
       "qid": "2016-H2-NONE-Q002",
@@ -7147,7 +7154,14 @@
       "has_visual": true,
       "requires_wiring_diagram": false,
       "display_mode": "image",
-      "question_json_path": "questions/2021-H1-PM-Q009.json"
+      "question_json_path": "questions/2021-H1-PM-Q009.json",
+      "question_images": [
+        "images/2021-H1-PM-Q009_part1.png",
+        "images/2021-H1-PM-Q009_part2.png"
+      ],
+      "question_image_count": 2,
+      "question_image_display": "ordered_parts_preferred",
+      "image_qa_status": "PASS_MANUAL"
     },
     {
       "qid": "2021-H1-PM-Q010",
@@ -14847,7 +14861,14 @@
       "has_visual": true,
       "requires_wiring_diagram": false,
       "display_mode": "image",
-      "question_json_path": "questions/2024-H1-NONE-Q009.json"
+      "question_json_path": "questions/2024-H1-NONE-Q009.json",
+      "question_images": [
+        "images/2024-H1-NONE-Q009_part1.png",
+        "images/2024-H1-NONE-Q009_part2.png"
+      ],
+      "question_image_count": 2,
+      "question_image_display": "ordered_parts_preferred",
+      "image_qa_status": "PASS"
     },
     {
       "qid": "2024-H1-NONE-Q010",
@@ -14945,7 +14966,14 @@
       "has_visual": true,
       "requires_wiring_diagram": false,
       "display_mode": "image",
-      "question_json_path": "questions/2024-H1-NONE-Q016.json"
+      "question_json_path": "questions/2024-H1-NONE-Q016.json",
+      "question_images": [
+        "images/2024-H1-NONE-Q016_part1.png",
+        "images/2024-H1-NONE-Q016_part2.png"
+      ],
+      "question_image_count": 2,
+      "question_image_display": "ordered_parts_preferred",
+      "image_qa_status": "PASS"
     },
     {
       "qid": "2024-H1-NONE-Q017",
@@ -16289,7 +16317,14 @@
       "has_visual": true,
       "requires_wiring_diagram": false,
       "display_mode": "image",
-      "question_json_path": "questions/2025-H1-NONE-Q012.json"
+      "question_json_path": "questions/2025-H1-NONE-Q012.json",
+      "question_images": [
+        "images/2025-H1-NONE-Q012_part1.png",
+        "images/2025-H1-NONE-Q012_part2.png"
+      ],
+      "question_image_count": 2,
+      "question_image_display": "ordered_parts_preferred",
+      "image_qa_status": "PASS"
     },
     {
       "qid": "2025-H1-NONE-Q013",
@@ -16877,7 +16912,14 @@
       "has_visual": true,
       "requires_wiring_diagram": false,
       "display_mode": "image",
-      "question_json_path": "questions/2025-H2-NONE-Q004.json"
+      "question_json_path": "questions/2025-H2-NONE-Q004.json",
+      "question_images": [
+        "images/2025-H2-NONE-Q004_part1.png",
+        "images/2025-H2-NONE-Q004_part2.png"
+      ],
+      "question_image_count": 2,
+      "question_image_display": "ordered_parts_preferred",
+      "image_qa_status": "PASS_MANUAL"
     },
     {
       "qid": "2025-H2-NONE-Q005",
@@ -17059,7 +17101,14 @@
       "has_visual": true,
       "requires_wiring_diagram": false,
       "display_mode": "image",
-      "question_json_path": "questions/2025-H2-NONE-Q017.json"
+      "question_json_path": "questions/2025-H2-NONE-Q017.json",
+      "question_images": [
+        "images/2025-H2-NONE-Q017_part1.png",
+        "images/2025-H2-NONE-Q017_part2.png"
+      ],
+      "question_image_count": 2,
+      "question_image_display": "ordered_parts_preferred",
+      "image_qa_status": "PASS"
     },
     {
       "qid": "2025-H2-NONE-Q018",
@@ -17521,7 +17570,14 @@
       "has_visual": true,
       "requires_wiring_diagram": true,
       "display_mode": "image_with_wiring_diagram",
-      "question_json_path": "questions/2025-H2-NONE-Q050.json"
+      "question_json_path": "questions/2025-H2-NONE-Q050.json",
+      "question_images": [
+        "images/2025-H2-NONE-Q050_part1.png",
+        "images/2025-H2-NONE-Q050_part2.png"
+      ],
+      "question_image_count": 2,
+      "question_image_display": "ordered_parts_preferred",
+      "image_qa_status": "PASS"
     },
     {
       "qid": "2026-H1-NONE-Q001",
@@ -17885,7 +17941,14 @@
       "has_visual": true,
       "requires_wiring_diagram": false,
       "display_mode": "image",
-      "question_json_path": "questions/2026-H1-NONE-Q026.json"
+      "question_json_path": "questions/2026-H1-NONE-Q026.json",
+      "question_images": [
+        "images/2026-H1-NONE-Q026_part1.png",
+        "images/2026-H1-NONE-Q026_part2.png"
+      ],
+      "question_image_count": 2,
+      "question_image_display": "ordered_parts_preferred",
+      "image_qa_status": "PASS"
     },
     {
       "qid": "2026-H1-NONE-Q027",
@@ -17955,7 +18018,14 @@
       "has_visual": true,
       "requires_wiring_diagram": true,
       "display_mode": "image_with_wiring_diagram",
-      "question_json_path": "questions/2026-H1-NONE-Q031.json"
+      "question_json_path": "questions/2026-H1-NONE-Q031.json",
+      "question_images": [
+        "images/2026-H1-NONE-Q031_part1.png",
+        "images/2026-H1-NONE-Q031_part2.png"
+      ],
+      "question_image_count": 2,
+      "question_image_display": "ordered_parts_preferred",
+      "image_qa_status": "PASS"
     },
     {
       "qid": "2026-H1-NONE-Q032",
@@ -18223,5 +18293,13 @@
       "display_mode": "image_with_wiring_diagram",
       "question_json_path": "questions/2026-H1-NONE-Q050.json"
     }
-  ]
+  ],
+  "image_delivery_policy": {
+    "source": "official_pdf_direct_render",
+    "render_dpi": 300,
+    "preferred_field": "question_images",
+    "ordered_parts": true,
+    "question_image_role": "single_image_fallback",
+    "inferred_or_redrawn_content_allowed": false
+  }
 }

@@ -9,5 +9,29 @@
   },
   "correct_answer": "ハ",
   "question_image": "images/2024-H1-NONE-Q009.png",
-  "wiring_diagram_image": null
+  "wiring_diagram_image": null,
+  "question_images": [
+    "images/2024-H1-NONE-Q009_part1.png",
+    "images/2024-H1-NONE-Q009_part2.png"
+  ],
+  "question_image_display": "ordered_parts_preferred",
+  "image_qa": {
+    "status": "PASS",
+    "render_dpi": 300,
+    "source_pdf_page": 354,
+    "automatic_checks": {
+      "method": "pdf_coordinate_text_layer",
+      "target_question_number": true,
+      "choice_labels": {
+        "イ": true,
+        "ロ": true,
+        "ハ": true,
+        "ニ": true
+      },
+      "question_text_start": true,
+      "question_text_end": true,
+      "auto_pass": true
+    },
+    "manual_review": null
+  }
 }
