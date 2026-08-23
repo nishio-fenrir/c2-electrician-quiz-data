@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H2-NONE-Q005",
+  "question_text": "定格電圧 V ［ V ］，定格電流 I ［ A ]の三相 誘導電動機を定格状態で時間 t ［ h ］の間，連続 運転したところ，消費電力量が W ［ kW ・ h ］で あった。この電動機の力率［％］を表す式は。",
+  "choices": {
+    "イ": "W ． 3 VIt",
+    "ロ": null,
+    "ハ": "3 VI 5 ． 10 Wt",
+    "ニ": "3 VI W 5 ． 5 ． 5 10 W 3 VIt"
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2024-H2-NONE-Q005.png",
+  "wiring_diagram_image": null
+}

@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-AM-Q004",
+  "question_text": "図のような交流回路で，電源電圧 102 V ， 抵抗の両端の電圧が 90 V ， リアクタンスの両端 の電圧が 48 V であるとき，負荷の力率［％］ は。 90 V 負 102 V 荷 48 V",
+  "choices": {
+    "イ": "． 47",
+    "ロ": "． 69",
+    "ハ": "． 88",
+    "ニ": "． 96"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2023-H2-AM-Q004.png",
+  "wiring_diagram_image": null
+}

@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H1-NONE-Q045",
+  "question_text": "⑮で示す部分の工事で， イ ． ロ ． ハ 一般的に 使用されることの ないものは 。 ただし，心線数は最少と する。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2025-H1-NONE-Q045.png",
+  "wiring_diagram_image": "diagrams/2025-H1-NONE-wiring.png"
+}

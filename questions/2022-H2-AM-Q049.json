@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-AM-Q049",
+  "question_text": "この配線図で， 使用されて イ ． ロ ． ハ いない スイッチは。 ただし，写真下の図は，接 点の構成を示す。 1 0 3",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2022-H2-AM-Q049.png",
+  "wiring_diagram_image": "diagrams/2022-H2-AM-wiring.png"
+}

@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H1-NONE-Q033",
+  "question_text": "③で示す部分に使用するコンセントの極配置 イ （刃受）は。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2024-H1-NONE-Q033.png",
+  "wiring_diagram_image": "diagrams/2024-H1-NONE-wiring.png"
+}

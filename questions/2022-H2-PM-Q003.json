@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-PM-Q003",
+  "question_text": "抵抗器に 100 V の電圧を印加したとき， 4 A の電流が流れた。 1 時間 20 分の間に抵抗器で 発生する熱量［ kJ ］は。",
+  "choices": {
+    "イ": "． 960",
+    "ロ": null,
+    "ハ": "． 1 920",
+    "ニ": "． 2 400 ． 2 700"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2022-H2-PM-Q003.png",
+  "wiring_diagram_image": null
+}

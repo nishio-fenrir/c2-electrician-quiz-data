@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-PM-Q034",
+  "question_text": "④で示す部分に施設する機器は。 イ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2023-H1-PM-Q034.png",
+  "wiring_diagram_image": "diagrams/2023-H1-PM-wiring.png"
+}

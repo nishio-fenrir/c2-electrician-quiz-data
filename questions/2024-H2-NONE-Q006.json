@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H2-NONE-Q006",
+  "question_text": "図のような単相 cc 2 線式回路で， が 99 V のとき， V ］は。 ただし， r は電線の抵抗［ r =0.1 W r =0.1 W a b c 10 A 10 A 1 φ 2W 抵抗 抵抗 負荷 電 源 r =0.1 W r =0.1 W a",
+  "choices": {
+    "イ": "． 102",
+    "ロ": null,
+    "ハ": "． 103",
+    "ニ": "． 104 ． 105"
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2024-H2-NONE-Q006.png",
+  "wiring_diagram_image": null
+}

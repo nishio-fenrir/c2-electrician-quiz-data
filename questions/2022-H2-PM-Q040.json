@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-PM-Q040",
+  "question_text": "⑩で示す図記号の配線方法は。 イ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2022-H2-PM-Q040.png",
+  "wiring_diagram_image": "diagrams/2022-H2-PM-wiring.png"
+}

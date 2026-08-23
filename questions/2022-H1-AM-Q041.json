@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-AM-Q041",
+  "question_text": "イ ロ ハ ニ ⑪で示すボックス内の接続 ． ． ． ． をすべて圧着接続とする場 合，使用するリングスリー 中 中 ブの種類と最少個数の組合 ２個 １個 せで， 。 正しいものは 大 １個 ２個",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2022-H1-AM-Q041.png",
+  "wiring_diagram_image": "diagrams/2022-H1-AM-wiring.png"
+}

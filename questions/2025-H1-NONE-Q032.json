@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H1-NONE-Q032",
+  "question_text": "６．ジョイントボックスを経由する電線は，すべて接続箇所を設けている。 ７． 3 路スイッチの記号「 0 」の端子には，電源側又は負荷側の電線を結線する。 32 ②で示す部分の配線工事に EM 電線を使用し た場合， 使用できない 電線の記号(種類)は。",
+  "choices": {
+    "イ": "． EM",
+    "ロ": "- EEF",
+    "ハ": "． EM - CE",
+    "ニ": "． EM - EE ． EM - IE"
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2025-H1-NONE-Q032.png",
+  "wiring_diagram_image": "diagrams/2025-H1-NONE-wiring.png"
+}

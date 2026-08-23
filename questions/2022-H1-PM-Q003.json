@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-PM-Q003",
+  "question_text": "となった。この接続点での電圧降下が 2 V のとき， 接続点から 1 時間に発生する熱量 ［ kJ ］ は。 ただし，接触抵抗及び電圧降下の値は変化 しないものとする。",
+  "choices": {
+    "イ": "． 72",
+    "ロ": "． 144",
+    "ハ": "． 288",
+    "ニ": "． 576"
+  },
+  "correct_answer": "イ",
+  "question_image": null,
+  "wiring_diagram_image": null
+}

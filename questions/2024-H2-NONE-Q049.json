@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H2-NONE-Q049",
+  "question_text": "⑲で示すジョイントボック イ ． ロ ． ハ ス内の電線相互の接続作業 に 使用されることのないも のは 。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2024-H2-NONE-Q049.png",
+  "wiring_diagram_image": "diagrams/2024-H2-NONE-wiring.png"
+}

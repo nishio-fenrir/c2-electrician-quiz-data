@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-PM-Q032",
+  "question_text": "②で示す図記号の名称は。 イ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2022-H2-PM-Q032.png",
+  "wiring_diagram_image": "diagrams/2022-H2-PM-wiring.png"
+}

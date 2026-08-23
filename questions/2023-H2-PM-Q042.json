@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-PM-Q042",
+  "question_text": "⑫で示す部分で DV 線を イ ． ロ ． ハ との組合せで， 正しいもの 引き留める場合に 使用する は 。 ものは 。 ただし，使用する電線は",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2023-H2-PM-Q042.png",
+  "wiring_diagram_image": "diagrams/2023-H2-PM-wiring.png"
+}

@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-AM-Q012",
+  "question_text": "絶縁物の最高許容温度が最も高いものは。",
+  "choices": {
+    "イ": "． 600V 架橋ポリエチレン絶縁ビニルシースケーブル ( CV )",
+    "ロ": "． 600V 二種ビニル絶縁電線 ( HIV )",
+    "ハ": "． 600V ビニル絶縁ビニルシースケーブル丸形 ( VVR )",
+    "ニ": "． 600V ビニル絶縁電線 ( IV )"
+  },
+  "correct_answer": "イ",
+  "question_image": null,
+  "wiring_diagram_image": null
+}

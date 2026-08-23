@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H1-NONE-Q002",
+  "question_text": "電気抵抗 R ［ D ［ mm ］，長 さ L ［ m ］ の導線の抵抗率［ m ］を表す式は。",
+  "choices": {
+    "イ": "．",
+    "ロ": "π DR 4 10 L",
+    "ハ": "2 π DR ． 26 L",
+    "ニ": "2 π DR π DR ． ． 6 23 4 10 L 4 10 L"
+  },
+  "correct_answer": "ハ",
+  "question_image": null,
+  "wiring_diagram_image": null
+}

@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-PM-Q038",
+  "question_text": "⑧で示す部分の配線で ( PF22 ) とあるのは。 イ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2022-H2-PM-Q038.png",
+  "wiring_diagram_image": "diagrams/2022-H2-PM-wiring.png"
+}

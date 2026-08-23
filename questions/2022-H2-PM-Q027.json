@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-PM-Q027",
+  "question_text": "単相 3 線式回路の漏れ電流の有無を， クラン プ形漏れ電流計を用いて測定する場合の測定 方法として， 正しいものは 。 ただし， は中性線を示す。",
+  "choices": {
+    "イ": "．",
+    "ロ": null,
+    "ハ": "．",
+    "ニ": "． ．"
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2022-H2-PM-Q027.png",
+  "wiring_diagram_image": null
+}

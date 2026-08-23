@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H2-NONE-Q015",
+  "question_text": "低圧電路に使用する定格電流が 20 A の配線 用遮断器に 25 A の電流が継続して流れたと き，この配線用遮断器が自動的に動作しなけれ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2024-H2-NONE-Q015.png",
+  "wiring_diagram_image": null
+}

@@ -1,0 +1,13 @@
+{
+  "qid": "2026-H1-NONE-Q016",
+  "question_text": "写真に示す材料が使用され る工事は。",
+  "choices": {
+    "イ": "金属ダクト工事",
+    "ロ": "金属管工事",
+    "ハ": "金属可とう電線管工事",
+    "ニ": "金属線ぴ工事"
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2026-H1-NONE-Q016.png",
+  "wiring_diagram_image": null
+}

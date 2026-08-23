@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H2-NONE-Q016",
+  "question_text": "写真に示す材料の名称は。",
+  "choices": {
+    "イ": "．ユニバーサル",
+    "ロ": "．低圧進相コンデンサ",
+    "ハ": "．自動点滅器",
+    "ニ": "．パワーコンディショナ"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2025-H2-NONE-Q016.png",
+  "wiring_diagram_image": null
+}

@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-PM-Q035",
+  "question_text": "PF16 16 mm ⑤で示す部分の配線で ( ) とあるのは。 ．外径 の硬質ポリ塩化ビニル電線管である。",
+  "choices": {
+    "イ": null,
+    "ロ": "16 mm ．外径 の合成樹脂製可とう電線管である。",
+    "ハ": "16 mm ．内径 の硬質ポリ塩化ビニル電線管である。",
+    "ニ": "16 mm ．内径 の合成樹脂製可とう電線管である。"
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2022-H1-PM-Q035.png",
+  "wiring_diagram_image": "diagrams/2022-H1-PM-wiring.png"
+}

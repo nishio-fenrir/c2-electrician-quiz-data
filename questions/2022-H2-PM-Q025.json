@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-PM-Q025",
+  "question_text": "図のような単相 3 線式回路で， 開閉器を閉じ て機器 A の両端の電圧を測定したところ 120 V を示した。 この原因として， 考えられるものは。 イ． a 線 機器 開 閉 器 100V A 200V 中性線 機器 100V B b 線",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2022-H2-PM-Q025.png",
+  "wiring_diagram_image": null
+}

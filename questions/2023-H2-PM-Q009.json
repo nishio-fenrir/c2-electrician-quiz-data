@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-PM-Q009",
+  "question_text": "図のように定格電流 50 A の配線用遮断器で 保護された低圧屋内幹線から VVR ケーブル 太さ 8 mm2 許容電流 42 A で低圧屋内電路 を 分岐する場合， a － b 間の長さの最大値 > m @ は。 ただし，低圧屋内幹線に接続される負荷は， 電灯負荷とする。 50 A 幹線 a Ｂ b Ｂ VVR 8",
+  "choices": {
+    "イ": "． 3",
+    "ロ": null,
+    "ハ": "． 5",
+    "ニ": "． 8 ．制限なし"
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2023-H2-PM-Q009.png",
+  "wiring_diagram_image": null
+}

@@ -1,0 +1,13 @@
+{
+  "qid": "2026-H1-NONE-Q049",
+  "question_text": "⑲で示すボックス内の接続 イ ． ロ ． ハ をすべて差込形コネクタと する場合，使用する差込形 １個 ２個 ２個 １個 コネクタの種類と最少個数 の組合せで， 正しいものは 。 ただし，使用する電線は すべて VVF1.6 とする。 ２個 １個 １個 ２個",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2026-H1-NONE-Q049.png",
+  "wiring_diagram_image": "diagrams/2026-H1-NONE-wiring.png"
+}

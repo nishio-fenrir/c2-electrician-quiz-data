@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-PM-Q004",
+  "question_text": "図のような抵抗とリアクタンスとが直列に 接続された回路の消費電力［ W ］は。 8 W 100 V 6 W",
+  "choices": {
+    "イ": "． 600",
+    "ロ": "． 800",
+    "ハ": "． 1 000",
+    "ニ": "． 1 250"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2023-H2-PM-Q004.png",
+  "wiring_diagram_image": null
+}

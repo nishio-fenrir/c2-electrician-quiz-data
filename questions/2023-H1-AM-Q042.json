@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-AM-Q042",
+  "question_text": "⑫で示すボックス内の接続 イ ． ロ ． ハ をすべて圧着接続とする場 小 小 合，使用するリングスリー ３個 ４個 ブの種類と最少個数の組合 せで， すべて VVF1.6 正しいものは 。 小 小 とする。 １個 １個 ただし，使用する電線は ４個 ５個 すべて VVF1.6 とする。 中 中",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2023-H1-AM-Q042.png",
+  "wiring_diagram_image": "diagrams/2023-H1-AM-wiring.png"
+}

@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-AM-Q031",
+  "question_text": "イ ロ ①で示す図記号の名称は。 ．白熱灯 ．熱線式自動スイッチ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2022-H2-AM-Q031.png",
+  "wiring_diagram_image": "diagrams/2022-H2-AM-wiring.png"
+}

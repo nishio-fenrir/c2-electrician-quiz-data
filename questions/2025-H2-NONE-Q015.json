@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H2-NONE-Q015",
+  "question_text": "系統連系型の小出力太陽光発電設備におい て， 使用される機器は 。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2025-H2-NONE-Q015.png",
+  "wiring_diagram_image": null
+}

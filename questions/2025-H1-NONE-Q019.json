@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H1-NONE-Q019",
+  "question_text": "単相 100 V の屋内配線工事における絶縁電線 相互の接続で，次のような箇所があった。 a~d のうちから 適切なものを全て選んだ 組合せとして，正しいものは。",
+  "choices": {
+    "イ": "． a のみ",
+    "ロ": "． b 及び c",
+    "ハ": "． b 及び d",
+    "ニ": "． a ， b 及び d"
+  },
+  "correct_answer": "ニ",
+  "question_image": null,
+  "wiring_diagram_image": null
+}

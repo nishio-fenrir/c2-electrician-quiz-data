@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-PM-Q045",
+  "question_text": "⑮で示す屋外部分の接地工事 イ ． ロ ． ハ を施すとき，一般的に 使用",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2023-H2-PM-Q045.png",
+  "wiring_diagram_image": "diagrams/2023-H2-PM-wiring.png"
+}

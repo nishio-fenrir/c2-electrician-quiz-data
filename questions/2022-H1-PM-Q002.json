@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-PM-Q002",
+  "question_text": "抵抗率 m ］，直径 D ［ mm ］，長さ L ［ m ］の導線の電気抵抗［",
+  "choices": {
+    "イ": "4 L ． 2 D",
+    "ロ": "2 L 6 ． 2 D",
+    "ハ": "4 L 6 ． D",
+    "ニ": "2 4 L 6 ． 6 D"
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2022-H1-PM-Q002.png",
+  "wiring_diagram_image": null
+}

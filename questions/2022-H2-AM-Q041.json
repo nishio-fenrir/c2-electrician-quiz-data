@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-AM-Q041",
+  "question_text": "⑪で示す点滅器の取付け工 イ ． ロ ． ハ 事に使用するものは 。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2022-H2-AM-Q041.png",
+  "wiring_diagram_image": "diagrams/2022-H2-AM-wiring.png"
+}

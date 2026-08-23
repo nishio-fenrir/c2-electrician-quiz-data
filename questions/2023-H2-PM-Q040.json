@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-PM-Q040",
+  "question_text": "⑩で示す配線工事で耐衝撃性硬質ポリ塩化ビ イ ニル電線管を使用した。その傍記表示は。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2023-H2-PM-Q040.png",
+  "wiring_diagram_image": "diagrams/2023-H2-PM-wiring.png"
+}

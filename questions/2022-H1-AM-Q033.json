@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-AM-Q033",
+  "question_text": "。 ③で示す部分の配線工事で用いる管の種類は 硬質ポリ塩化ビニル電線管 イ．",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2022-H1-AM-Q033.png",
+  "wiring_diagram_image": "diagrams/2022-H1-AM-wiring.png"
+}

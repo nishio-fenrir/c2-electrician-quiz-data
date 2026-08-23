@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-AM-Q048",
+  "question_text": "イ ロ ハ ニ ⑱で示すジョイントボックス ． ． ． ． 内の電線相互の接続作業に は。 用いるものとして， 不適切 なものは 。 る電線とする。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2022-H1-AM-Q048.png",
+  "wiring_diagram_image": "diagrams/2022-H1-AM-wiring.png"
+}

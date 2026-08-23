@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H1-NONE-Q003",
+  "question_text": "電線の接続不良により， 接続点の接触抵抗が 0.2 となった。この電線に 10 A の電流が流れ ると，接続点から 1 時間に発生する熱量［ kJ ］ は。 ただし，接触抵抗の値は変化しないものと する。",
+  "choices": {
+    "イ": "． 72",
+    "ロ": "． 144",
+    "ハ": "． 288",
+    "ニ": "． 576"
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2025-H1-NONE-Q003.png",
+  "wiring_diagram_image": null
+}

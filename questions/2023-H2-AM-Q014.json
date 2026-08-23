@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-AM-Q014",
+  "question_text": "必要に応じ，スターデルタ始動を行う電動 機は。",
+  "choices": {
+    "イ": "．一般用三相かご形誘導電動機",
+    "ロ": "．三相巻線形誘導電動機",
+    "ハ": "．直流分巻電動機",
+    "ニ": "．単相誘導電動機"
+  },
+  "correct_answer": "イ",
+  "question_image": null,
+  "wiring_diagram_image": null
+}

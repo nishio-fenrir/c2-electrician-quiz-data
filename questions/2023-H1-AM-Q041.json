@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-AM-Q041",
+  "question_text": "⑪で示すボックス内の接続 イ ． ロ ． ハ をすべて差込形コネクタと する場合， 使用する差込形 ３個 ４個 コネクタの種類と最少個数 の組合せで， 正しいものは。 ４個 ５個 ただし，使用する電線は",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2023-H1-AM-Q041.png",
+  "wiring_diagram_image": "diagrams/2023-H1-AM-wiring.png"
+}

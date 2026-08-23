@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H1-NONE-Q007",
+  "question_text": "図のような単相 3 線式回路において，電線 1 線当たりの抵抗が 0.1 ，抵抗負荷に流れる 電流がともに 15 A のとき，この配線の電力 損失［ W ］は。 0.1 W 15 A 抵抗負荷 100 V 0.1 W 1 φ 3W 電 源 100 V 200 V 抵抗負荷 15 A 0.1 W",
+  "choices": {
+    "イ": "． 45",
+    "ロ": "． 60",
+    "ハ": "． 90",
+    "ニ": "． 135"
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2024-H1-NONE-Q007.png",
+  "wiring_diagram_image": null
+}

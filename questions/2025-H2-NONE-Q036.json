@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H2-NONE-Q036",
+  "question_text": "⑥で示す図記号の名称は。 イ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2025-H2-NONE-Q036.png",
+  "wiring_diagram_image": "diagrams/2025-H2-NONE-wiring.png"
+}

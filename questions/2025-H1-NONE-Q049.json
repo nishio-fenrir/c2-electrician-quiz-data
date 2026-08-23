@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H1-NONE-Q049",
+  "question_text": "この配線図の図記号から， コネクタの種類と最少個数 イ ． ロ ． ハ べて VVF1.6 の組合せで， この工事で 使用されてい とし，地下 正しいものは 1 。 ただし，使用する電線は 階へ至る配線の電線本数 すべて VVF1.6 (心線数)は最少とする。 とする。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2025-H1-NONE-Q049.png",
+  "wiring_diagram_image": "diagrams/2025-H1-NONE-wiring.png"
+}

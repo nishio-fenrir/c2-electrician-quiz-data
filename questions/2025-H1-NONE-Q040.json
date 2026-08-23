@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H1-NONE-Q040",
+  "question_text": "許容される最大値［ W ］は。 イ 40 ⑩で示す部分は引掛形のコンセントである。 なお，引込線の電源側には地絡遮断装置は その図記号の傍記表示は。",
+  "choices": {
+    "イ": null,
+    "ロ": "． 10 ． EL",
+    "ハ": "． 100 ． H",
+    "ニ": "． 300 ． 500 ． T ． LK"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2025-H1-NONE-Q040.png",
+  "wiring_diagram_image": "diagrams/2025-H1-NONE-wiring.png"
+}

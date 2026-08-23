@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-PM-Q049",
+  "question_text": "この配線図の施工で， 使用 イ ． ロ ． ハ されていないものは 。 すべて VVF1.6 とする。 １個 １個",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2023-H2-PM-Q049.png",
+  "wiring_diagram_image": "diagrams/2023-H2-PM-wiring.png"
+}

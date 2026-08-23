@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H2-NONE-Q004",
+  "question_text": "図のような正弦波交流回路の電源電圧 v に 対する電流 i の波形として， 正しいものは 。 i v C",
+  "choices": {
+    "イ": "v v ． ． 360° i 360° 0 0 i",
+    "ロ": null,
+    "ハ": "． v ． v 360° 360° 0 0 i i",
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2024-H2-NONE-Q004.png",
+  "wiring_diagram_image": null
+}

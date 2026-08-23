@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-AM-Q045",
+  "question_text": "⑮で示す部分の配線を器具 イ ． ロ ． ハ の裏面から見たものであ る。 正しいものは 。 ただし，電線の色別は，白色 は電源からの接地側電線， 黒色は電源からの非接地側 電線，赤色は負荷に結線す る電線とする。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2023-H1-AM-Q045.png",
+  "wiring_diagram_image": "diagrams/2023-H1-AM-wiring.png"
+}

@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H1-NONE-Q050",
+  "question_text": "この配線図で， 使用されて イ ． ロ ． ハ 続後の刻印との組合せで， いない コンセントは。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2024-H1-NONE-Q050.png",
+  "wiring_diagram_image": "diagrams/2024-H1-NONE-wiring.png"
+}

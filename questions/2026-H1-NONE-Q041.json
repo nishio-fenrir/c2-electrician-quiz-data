@@ -1,0 +1,13 @@
+{
+  "qid": "2026-H1-NONE-Q041",
+  "question_text": "⑪で示すボックス内の接続 イ ． ロ ． ハ をすべて圧着接続とする場 合，使用するリングスリー ブの種類と最少個数の組合 小 せで， 正しいものは 。 ３個 ただし，使用する電線は すべて VVF1.6 とする。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2026-H1-NONE-Q041.png",
+  "wiring_diagram_image": "diagrams/2026-H1-NONE-wiring.png"
+}

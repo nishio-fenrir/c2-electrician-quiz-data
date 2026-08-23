@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-AM-Q040",
+  "question_text": "⑩で示す部分の工事方法で 施工できない 工事 イ 方法は。 ハ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2023-H1-AM-Q040.png",
+  "wiring_diagram_image": "diagrams/2023-H1-AM-wiring.png"
+}

@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-PM-Q032",
+  "question_text": "②で示す部分はルームエアコンの屋内ユニット である。その図記号の傍記表示として， 正し イ いものは。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2023-H2-PM-Q032.png",
+  "wiring_diagram_image": "diagrams/2023-H2-PM-wiring.png"
+}

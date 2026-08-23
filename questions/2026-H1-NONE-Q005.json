@@ -1,0 +1,13 @@
+{
+  "qid": "2026-H1-NONE-Q005",
+  "question_text": "図のような三相 3 線式 200 V の回路で， 間 co の抵抗が断線した。断線前と断線後の 間 ao の電圧 V の値［ V ］の組合せとして， 正しい のは 。 a R V 200V φ 3W o3 200V 電 源 RR bc 200V",
+  "choices": {
+    "イ": "．断線前 116 断線後 116",
+    "ロ": "．断線前 116 断線後 100",
+    "ハ": "．断線前 100 断線後 116",
+    "ニ": "．断線前 100 断線後 100"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2026-H1-NONE-Q005.png",
+  "wiring_diagram_image": null
+}

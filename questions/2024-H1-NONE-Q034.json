@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H1-NONE-Q034",
+  "question_text": "④で示す図記号の名称は。",
+  "choices": {
+    "イ": null,
+    "ロ": "．誘導灯",
+    "ハ": "．保安用照明",
+    "ニ": "．一般用照明 ．非常用照明"
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2024-H1-NONE-Q034.png",
+  "wiring_diagram_image": "diagrams/2024-H1-NONE-wiring.png"
+}

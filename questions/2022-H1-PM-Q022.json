@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-PM-Q022",
+  "question_text": "床に固定した定格電圧 200 V ，定格出力 1.5 kW の三相誘導電動機の鉄台に接地工事をする場 ただし，漏電遮断器を設置しないものとする。",
+  "choices": {
+    "イ": "．直径 1.6 mm ， 10",
+    "ロ": "．直径 2.0 mm ， 50",
+    "ハ": "．公称断面積 0.75 mm2 ， 5",
+    "ニ": "．直径 2.6 mm ， 75"
+  },
+  "correct_answer": "ハ",
+  "question_image": null,
+  "wiring_diagram_image": null
+}

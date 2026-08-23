@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-PM-Q003",
+  "question_text": "抵抗に 15 A の電流を 1 時間 30 分流したと き，電力量が 4.5 kW ・ h であった。抵抗に加え た電圧［ V ］は。 イ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2023-H1-PM-Q003.png",
+  "wiring_diagram_image": null
+}

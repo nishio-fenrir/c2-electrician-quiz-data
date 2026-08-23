@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-PM-Q042",
+  "question_text": "⑫で示すボックス内の接続 イ ． ロ ． ハ をリングスリーブで圧着接 続した場合のリングスリー ブの種類，個数及び圧着接 中 中 中 続後の刻印との組合せで， 正しいものは 。 中 ２個 中 １個 中 １個 た だ し ， 使 用 す る 電 線 は すべて VVF1.6 とする。 ○ また，写真に示す リングス リーブ中央 の ○ ， 小 ， 中 は 刻印を表す。 小 ２個 小 ３個 小 ３個 小 ４個",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2022-H2-PM-Q042.png",
+  "wiring_diagram_image": "diagrams/2022-H2-PM-wiring.png"
+}

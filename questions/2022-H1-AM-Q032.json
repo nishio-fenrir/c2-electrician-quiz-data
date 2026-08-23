@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-AM-Q032",
+  "question_text": "イ ②で示す引込口開閉器の設置は。 ．屋外の電路が地中配線であるから省略できない。 ただし，この屋内電路を保護する過負荷保護 ．屋外の電路の長さが 以上なので省略できない。 付漏電遮断器の定格電流は である。 ．過負荷保護付漏電遮断器の定格電流が なので省略できない。 20 A 20 A",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2022-H1-AM-Q032.png",
+  "wiring_diagram_image": "diagrams/2022-H1-AM-wiring.png"
+}

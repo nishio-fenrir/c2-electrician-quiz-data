@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H2-NONE-Q048",
+  "question_text": "この配線図で， 使用されて イ ． ロ ． ハ すべて VVF1.6 とする。 いない スイッチは。 また，写真に示す リングス ただし，写真下の図は， リーブ中央 の 〇 ， 小 ， 中 は 正しいものは 。 小 小 刻印を表す。 ただし，使用する電線は ３個 ４個 すべて VVF1.6 とする。 中 中 PL 遅れ機構",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2025-H2-NONE-Q048.png",
+  "wiring_diagram_image": "diagrams/2025-H2-NONE-wiring.png"
+}

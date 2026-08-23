@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-PM-Q038",
+  "question_text": "⑧で示す部分の最少電線本数(心線数)は。 て，許容される最小値[ M W ]は。",
+  "choices": {
+    "イ": null,
+    "ロ": "． 0.1 ． 2",
+    "ハ": "． 0.2 ． 3",
+    "ニ": "． 0.4 ． 1.0 ． 4 ． 5"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2023-H1-PM-Q038.png",
+  "wiring_diagram_image": "diagrams/2023-H1-PM-wiring.png"
+}

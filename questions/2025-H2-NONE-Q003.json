@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H2-NONE-Q003",
+  "question_text": "電熱器により， 60 kg の水の温度を 20 K 上昇 させるのに必要な電力量［ kW ･ h ］は。 ただし，水の比熱は 4.2 kJ / ( kg ・ K )とし， 熱効率は 100 ％とする。",
+  "choices": {
+    "イ": "． 1.0",
+    "ロ": "． 1.2",
+    "ハ": "． 1.4",
+    "ニ": "． 1.6"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2025-H2-NONE-Q003.png",
+  "wiring_diagram_image": null
+}

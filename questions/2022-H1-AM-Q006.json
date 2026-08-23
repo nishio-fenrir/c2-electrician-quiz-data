@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-AM-Q006",
+  "question_text": "図のような三相 3 線式回路で， 電線 1 線当た りの抵抗が 0.15 ，線電流が 10 A のとき，この 電線路の電力損失［ W ］は。 10 A 0.15 W 三 10 A 相 3 φ 3W 電 源 10 A",
+  "choices": {
+    "イ": "． 15",
+    "ロ": "． 26",
+    "ハ": "． 30",
+    "ニ": "． 45"
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2022-H1-AM-Q006.png",
+  "wiring_diagram_image": null
+}

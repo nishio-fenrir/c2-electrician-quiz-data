@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-AM-Q034",
+  "question_text": "④で示す部分の小勢力回路で使用できる電線 (軟銅線)の導体の最小直径［ mm ］は。",
+  "choices": {
+    "イ": null,
+    "ロ": "． 0.5",
+    "ハ": "． 0.8",
+    "ニ": "． 1.2 ． 1.6"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2023-H2-AM-Q034.png",
+  "wiring_diagram_image": "diagrams/2023-H2-AM-wiring.png"
+}

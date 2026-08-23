@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-PM-Q043",
+  "question_text": "⑬で示すボックス内の接続を イ ． ロ ． ハ すべて圧着接続とする場合， 小 小 使用するリングスリーブの ３個 ４個 種類と最少個数の組合せで， 小 小 正しいものは 。 ４個 ５個 ただし，使用する電線は 中 中 すべて VVF1.6 とする。 すべて VVF1.6 また，写真に示す リング とする。 １個 １個 スリーブ中央 の 〇 ， 小 ， 小 ４個 小 ４個 小 ３個 小 ３個",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2023-H2-PM-Q043.png",
+  "wiring_diagram_image": "diagrams/2023-H2-PM-wiring.png"
+}

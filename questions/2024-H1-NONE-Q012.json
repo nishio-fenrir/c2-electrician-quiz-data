@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H1-NONE-Q012",
+  "question_text": "低圧屋内配線として使用する 600V ビニル 絶縁電線( IV )の絶縁物の最高許容温度 ［℃］ は。",
+  "choices": {
+    "イ": "． 45",
+    "ロ": "． 60",
+    "ハ": "． 75",
+    "ニ": "． 90"
+  },
+  "correct_answer": "ロ",
+  "question_image": null,
+  "wiring_diagram_image": null
+}

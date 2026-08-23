@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-PM-Q002",
+  "question_text": "抵抗 R ［ V ［ V ］を加えると，電流 I ［ A ］ が流れ， P ［ W ］ の電力が消費される場合， 抵 抗 R ［ 誤 っ て い る ものは 。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2022-H2-PM-Q002.png",
+  "wiring_diagram_image": null
+}

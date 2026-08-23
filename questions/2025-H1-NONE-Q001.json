@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H1-NONE-Q001",
+  "question_text": "図のような回路で， スイッチ S1 を閉じ， スイ ッチ S2 を開いたときの， 端子 間の合成抵抗 ab ［ 30 W 30 W 30 W a S S 1 30 W b",
+  "choices": {
+    "イ": "． 45",
+    "ロ": "． 60",
+    "ハ": "． 75",
+    "ニ": "． 120"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2025-H1-NONE-Q001.png",
+  "wiring_diagram_image": null
+}

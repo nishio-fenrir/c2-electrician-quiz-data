@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-PM-Q050",
+  "question_text": "イ ロ ハ ニ この配線図の施工で，一般 ． ． ． ． 的に た だ し ， 写 真 下 の 図 は ， 使用されることのない 接点の構成を示す。 ものは 。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2022-H1-PM-Q050.png",
+  "wiring_diagram_image": "diagrams/2022-H1-PM-wiring.png"
+}

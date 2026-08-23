@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-AM-Q048",
+  "question_text": "この配線図で， 使用されて イ ． ロ ． ハ いない コンセントは。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2022-H2-AM-Q048.png",
+  "wiring_diagram_image": "diagrams/2022-H2-AM-wiring.png"
+}

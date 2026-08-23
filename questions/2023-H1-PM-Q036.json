@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-PM-Q036",
+  "question_text": "⑥で示す部分に照明器具としてペンダントを イ 取り付けたい。図記号は。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2023-H1-PM-Q036.png",
+  "wiring_diagram_image": "diagrams/2023-H1-PM-wiring.png"
+}

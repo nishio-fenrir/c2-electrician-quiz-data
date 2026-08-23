@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-PM-Q006",
+  "question_text": "図のように，単相 2 線式電線路で，抵抗負荷 A ， B ， C にそれぞれ負荷電流 10 A が流れて いる。 電源電圧が 210 V で あ る と き 抵 抗 負 荷 C の 両端電圧 VC ［ V ］は。 ただし， r は電線の抵抗［ r =0.1 r =0.1 r =0.1 10 A 10 A 10 A 1 φ 2W 210 V B C VC ［ V ］ 電 源 r =0.1 r =0.1 r =0.1",
+  "choices": {
+    "イ": "． 198",
+    "ロ": "． 200",
+    "ハ": "． 202",
+    "ニ": "． 204"
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2022-H1-PM-Q006.png",
+  "wiring_diagram_image": null
+}

@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H1-NONE-Q025",
+  "question_text": "選択肢の各図のうち，アナログ式絶縁抵抗計 の表示部として， 正しいものは 。",
+  "choices": {
+    "イ": "． ． 1 M Ω M Ω 注意:目盛表示は，一部 注意:目盛表示は，一部 省略している。 省略している。",
+    "ロ": null,
+    "ハ": "． ． 2 150 Ω M Ω M 注意:目盛表示は，一部 注意:目盛表示は，一部 省略している。 省略している。",
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2025-H1-NONE-Q025.png",
+  "wiring_diagram_image": null
+}

@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-AM-Q046",
+  "question_text": "イ ロ ハ ニ ⑯で示す部分の配線を器具 ． ． ． ． の 裏 面 か ら 見 た も の で あ る。 。 正しいものは ただし，電線の色別は，白色 は電源からの接地側電線， 黒色は電源からの非接地側",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2022-H1-AM-Q046.png",
+  "wiring_diagram_image": "diagrams/2022-H1-AM-wiring.png"
+}

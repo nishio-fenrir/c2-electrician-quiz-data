@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-AM-Q043",
+  "question_text": "⑬で示す回路の負荷電流を イ ． ロ ． ハ 測定するものは。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2022-H2-AM-Q043.png",
+  "wiring_diagram_image": "diagrams/2022-H2-AM-wiring.png"
+}

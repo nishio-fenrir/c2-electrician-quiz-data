@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H2-NONE-Q037",
+  "question_text": "⑦で示す部分の接地工事の電線(軟銅線)の イ 最小太さと， 接地抵抗の最大値との組合せで， ハ 正しいものは。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2024-H2-NONE-Q037.png",
+  "wiring_diagram_image": "diagrams/2024-H2-NONE-wiring.png"
+}

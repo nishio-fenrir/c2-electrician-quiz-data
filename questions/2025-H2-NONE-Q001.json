@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H2-NONE-Q001",
+  "question_text": "図のような回路で，端子 間の合成抵抗 ab ［ 3 W 6 W a 6 W 3 W b",
+  "choices": {
+    "イ": "． 1",
+    "ロ": "． 2",
+    "ハ": "． 3",
+    "ニ": "． 4"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2025-H2-NONE-Q001.png",
+  "wiring_diagram_image": null
+}

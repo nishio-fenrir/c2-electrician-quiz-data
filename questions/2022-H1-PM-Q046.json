@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-PM-Q046",
+  "question_text": "イ ロ ハ ニ ⑯で示すボックス内の接続 ． ． ． ． をすべて差込形コネクタと する場合， 使用する差込形 １個 １個 １個 １個 コネクタの種類と最少個数 の組合せで， 。 正しいものは た だ し ， 使 用 す る 電 線 は すべて とする。 VVF1.6 １個 ２個 １個 １個 １個 １個 １個",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2022-H1-PM-Q046.png",
+  "wiring_diagram_image": "diagrams/2022-H1-PM-wiring.png"
+}

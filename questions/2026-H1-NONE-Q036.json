@@ -1,0 +1,13 @@
+{
+  "qid": "2026-H1-NONE-Q036",
+  "question_text": "⑥で示す部分はルームエアコンの屋内ユニッ トである。その図記号の傍記表示は 。",
+  "choices": {
+    "イ": null,
+    "ロ": "． B",
+    "ハ": "． O",
+    "ニ": "． I ． R"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2026-H1-NONE-Q036.png",
+  "wiring_diagram_image": "diagrams/2026-H1-NONE-wiring.png"
+}

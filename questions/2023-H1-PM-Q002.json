@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-PM-Q002",
+  "question_text": "A ， B 2 本の同材質の銅線がある。 A は直径 1.6 mm ，長さ 100 m ， B は直径 3.2 mm ，長さ 50 m である。 A の抵抗は B の抵抗の何倍か。 イ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2023-H1-PM-Q002.png",
+  "wiring_diagram_image": null
+}

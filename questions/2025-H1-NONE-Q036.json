@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H1-NONE-Q036",
+  "question_text": "⑥で示す機器の定格電流の最大値［ A ］は。 イ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2025-H1-NONE-Q036.png",
+  "wiring_diagram_image": "diagrams/2025-H1-NONE-wiring.png"
+}

@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-PM-Q010",
+  "question_text": "低圧屋内配線の分岐回路の設計で，配線用 遮断器の定格電流とコンセントの組合せと して， 不適切なものは 。",
+  "choices": {
+    "イ": "． ． Ｂ 30 A 30 A コンセント 2 個",
+    "ロ": null,
+    "ハ": "． Ｂ 30 A Ｂ 15 A コンセント 20 A コンセント 2 個 1 個",
+    "ニ": "． 20 A Ｂ 20 A 15 A コンセント 2 個"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2023-H2-PM-Q010.png",
+  "wiring_diagram_image": null
+}

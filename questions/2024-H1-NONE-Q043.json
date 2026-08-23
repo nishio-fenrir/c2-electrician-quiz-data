@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H1-NONE-Q043",
+  "question_text": "⑬で示す部分の配線工事で イ ． ロ ． ハ 一般的に 使用されることの",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2024-H1-NONE-Q043.png",
+  "wiring_diagram_image": "diagrams/2024-H1-NONE-wiring.png"
+}

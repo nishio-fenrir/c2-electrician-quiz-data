@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H2-NONE-Q047",
+  "question_text": "⑰で示す部分に使用するト イ ． ロ ． ハ ラフは。 る。 ハ ． ニ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2024-H2-NONE-Q047.png",
+  "wiring_diagram_image": "diagrams/2024-H2-NONE-wiring.png"
+}

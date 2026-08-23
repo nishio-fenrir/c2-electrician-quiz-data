@@ -1,0 +1,13 @@
+{
+  "qid": "2026-H1-NONE-Q017",
+  "question_text": "写真に示す材料の用途は。",
+  "choices": {
+    "イ": "． VVF ケーブルを接続する箇所に用いる。",
+    "ロ": "．スイッチやコンセントを取り付けるのに用いる。",
+    "ハ": "．合成樹脂管工事において，電線を接続する箇所に用いる。",
+    "ニ": "．天井からコードを吊り下げるときに用いる。"
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2026-H1-NONE-Q017.png",
+  "wiring_diagram_image": null
+}

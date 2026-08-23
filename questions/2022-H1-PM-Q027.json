@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-PM-Q027",
+  "question_text": "図の交流回路は， 負荷の電圧， 電流， 電力を 測定する回路である。図中に a ， b ， c で示す 計器の組合せとして， 正しいものは 。 b c 負荷 1 φ 2W a 電 源",
+  "choices": {
+    "イ": "a 電流計 b 電圧計 c 電力計",
+    "ロ": "a 電力計 b 電流計 c 電圧計",
+    "ハ": "a 電圧計 b 電力計 c 電流計",
+    "ニ": "a 電圧計 b 電流計 c 電力計"
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2022-H1-PM-Q027.png",
+  "wiring_diagram_image": null
+}

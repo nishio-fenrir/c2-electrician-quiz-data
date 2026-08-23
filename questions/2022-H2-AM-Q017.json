@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-AM-Q017",
+  "question_text": "写真に示す機器の名称は。",
+  "choices": {
+    "イ": "．水銀灯用安定器",
+    "ロ": "．変流器",
+    "ハ": "．ネオン変圧器",
+    "ニ": "．低圧進相コンデンサ"
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2022-H2-AM-Q017.png",
+  "wiring_diagram_image": null
+}

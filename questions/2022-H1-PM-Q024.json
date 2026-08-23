@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-PM-Q024",
+  "question_text": "ネオン式検電器を使用する目的は。",
+  "choices": {
+    "イ": "．ネオン放電灯の照度を測定する。",
+    "ロ": "．ネオン管灯回路の導通を調べる。",
+    "ハ": "．電路の漏れ電流を測定する。",
+    "ニ": "．電路の充電の有無を確認する。"
+  },
+  "correct_answer": "ニ",
+  "question_image": null,
+  "wiring_diagram_image": null
+}

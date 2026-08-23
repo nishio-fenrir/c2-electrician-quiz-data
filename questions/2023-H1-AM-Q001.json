@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-AM-Q001",
+  "question_text": "図のような回路で，スイッチ S を閉じたとき ab − V ］は。 30  30  30  a S 100 V  b",
+  "choices": {
+    "イ": "． 30",
+    "ロ": null,
+    "ハ": "． 40",
+    "ニ": "． 50 ． 60"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2023-H1-AM-Q001.png",
+  "wiring_diagram_image": null
+}

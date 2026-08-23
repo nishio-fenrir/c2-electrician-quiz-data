@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H2-NONE-Q008",
+  "question_text": "低圧屋内配線の合成樹脂管工事で，管内に 直径 2.0 mm の 600V ビニル絶縁電線(軟銅線) を 4 本収めて施設した場合，電線 1 本当たり の許容電流［ A ］は。 ただし，周囲温度は 30 ℃以下とする。",
+  "choices": {
+    "イ": "． 17",
+    "ロ": null,
+    "ハ": "． 19",
+    "ニ": "． 22 ． 24"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2025-H2-NONE-Q008.png",
+  "wiring_diagram_image": null
+}

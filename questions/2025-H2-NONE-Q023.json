@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H2-NONE-Q023",
+  "question_text": "電磁的不平衡を生じないように，電線を 金属管に挿入する方法として， 適切なものは。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2025-H2-NONE-Q023.png",
+  "wiring_diagram_image": null
+}

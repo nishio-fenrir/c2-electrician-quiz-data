@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-AM-Q016",
+  "question_text": "写真に示す材料の名称は。",
+  "choices": {
+    "イ": "銅線用裸圧着スリーブ",
+    "ロ": "銅管端子",
+    "ハ": "銅線用裸圧着端子",
+    "ニ": "ねじ込み形コネクタ"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2023-H2-AM-Q016.png",
+  "wiring_diagram_image": null
+}

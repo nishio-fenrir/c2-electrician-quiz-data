@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-PM-Q042",
+  "question_text": "⑫で示す部分の配線工事に イ ． ロ ． ハ 必要なケーブルは。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2023-H1-PM-Q042.png",
+  "wiring_diagram_image": "diagrams/2023-H1-PM-wiring.png"
+}

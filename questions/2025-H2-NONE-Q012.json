@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H2-NONE-Q012",
+  "question_text": "600V ポリエチレン絶縁耐燃性ポリエチレン シースケーブル平形の絶縁物の 最高許容 温度［℃］は。",
+  "choices": {
+    "イ": "． 60 ． 75",
+    "ロ": "．コンクリート床内に埋め込んで絶縁電線を収める。",
+    "ハ": "． 90",
+    "ニ": "． 120"
+  },
+  "correct_answer": "ロ",
+  "question_image": null,
+  "wiring_diagram_image": null
+}

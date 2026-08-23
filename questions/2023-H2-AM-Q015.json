@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-AM-Q015",
+  "question_text": "低圧電路に使用する定格電流 30 A の配線用 遮断器に 37.5 A の電流が継続して流れたとき ， この配線用遮断器が自動的に動作しなければ ならない時間［分］の限度(最大の時間)は。",
+  "choices": {
+    "イ": "． 2",
+    "ロ": "． 4",
+    "ハ": null,
+    "ニ": "． 60 ． 120"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2023-H2-AM-Q015.png",
+  "wiring_diagram_image": null
+}

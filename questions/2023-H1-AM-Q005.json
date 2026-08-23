@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-AM-Q005",
+  "question_text": "図のような三相 3 線式回路の全消費電 力 ［ kW ］は。 8  6  200 V 6  8  3 φ 3W 電 源  6  200 V",
+  "choices": {
+    "イ": "． 2.4",
+    "ロ": null,
+    "ハ": "． 4.8",
+    "ニ": "． 9.6 ． 19.2"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2023-H1-AM-Q005.png",
+  "wiring_diagram_image": null
+}

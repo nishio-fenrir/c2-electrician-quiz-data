@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H1-NONE-Q043",
+  "question_text": "⑬で示す地下 1 階のポンプ イ ． ロ ． ハ 室内で 使用されていない",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2025-H1-NONE-Q043.png",
+  "wiring_diagram_image": "diagrams/2025-H1-NONE-wiring.png"
+}

@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H2-NONE-Q044",
+  "question_text": "⑭で示す点滅器の取付け工 イ ． ロ ． ハ 事に 使用されることのない 材料は 。 タの種類と最少個数の組合 せで， 正しいものは 。 ただし，使用する電線は １個 ２個 １個 １個 すべて VVF1.6 とする。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2024-H2-NONE-Q044.png",
+  "wiring_diagram_image": "diagrams/2024-H2-NONE-wiring.png"
+}

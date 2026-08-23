@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H2-NONE-Q029",
+  "question_text": "「電気用品安全法」 の適用を受ける次の電気 用品のうち，特定電気用品は。",
+  "choices": {
+    "イ": "．定格電流 20 A の配線用遮断器",
+    "ロ": "．消費電力 30 W の換気扇",
+    "ハ": "．外径 19 mm の金属製の電線管",
+    "ニ": "．消費電力 1 kW の電気ストーブ"
+  },
+  "correct_answer": "イ",
+  "question_image": null,
+  "wiring_diagram_image": null
+}

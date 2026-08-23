@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H2-NONE-Q043",
+  "question_text": "⑬で示す VVF 用ジョイント イ ． ロ ． ハ ボックス内の接続をすべて 差込形コネクタとする場 ３個 ２個 ３個 ２個 合，使用する差込形コネク",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2024-H2-NONE-Q043.png",
+  "wiring_diagram_image": "diagrams/2024-H2-NONE-wiring.png"
+}

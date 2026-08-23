@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-AM-Q001",
+  "question_text": "図のような直流回路で， 間の電圧［ V ab は。 100 V 20 W ab 100 V 30 W",
+  "choices": {
+    "イ": "． 10",
+    "ロ": "． 20",
+    "ハ": "． 30",
+    "ニ": "． 40"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2023-H2-AM-Q001.png",
+  "wiring_diagram_image": null
+}

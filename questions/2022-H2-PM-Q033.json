@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-PM-Q033",
+  "question_text": "③で示すコンセントの極配置 ( 刃受 ) は。 イ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2022-H2-PM-Q033.png",
+  "wiring_diagram_image": "diagrams/2022-H2-PM-wiring.png"
+}

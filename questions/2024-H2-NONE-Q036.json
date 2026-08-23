@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H2-NONE-Q036",
+  "question_text": "⑥で示す部分に施設してはならない過電流遮 イ． 断装置は。 ロ．",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2024-H2-NONE-Q036.png",
+  "wiring_diagram_image": "diagrams/2024-H2-NONE-wiring.png"
+}

@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-PM-Q029",
+  "question_text": "「電気用品安全法」 の適用を受ける次の電気 用品のうち，特定電気用品は。",
+  "choices": {
+    "イ": "．定格消費電力 20 W の蛍光ランプ",
+    "ロ": "外径 19 mm の金属製電線管",
+    "ハ": "定格消費電力 500 W の電気冷蔵庫",
+    "ニ": "定格電流 30 A の漏電遮断器"
+  },
+  "correct_answer": "ニ",
+  "question_image": null,
+  "wiring_diagram_image": null
+}

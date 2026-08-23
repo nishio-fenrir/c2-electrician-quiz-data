@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H2-NONE-Q017",
+  "question_text": "写真に示す器具の〇で囲まれた部分の名称 は。",
+  "choices": {
+    "イ": "．漏電警報器",
+    "ロ": "．電磁接触器",
+    "ハ": "．漏電遮断器",
+    "ニ": "．熱動継電器"
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2024-H2-NONE-Q017.png",
+  "wiring_diagram_image": null
+}

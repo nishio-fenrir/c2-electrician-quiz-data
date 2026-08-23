@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H1-NONE-Q009",
+  "question_text": "図のように定格電流 100 A の過電流遮断器で 保護された低圧屋内幹線から分岐して， 6 m の 位置に過電流遮断器を施設するとき， 間の ab 電線の許容電流の最小値［ A ］は。 100 A 1 φ 2W a 電 源 6m b Ｂ",
+  "choices": {
+    "イ": "． 25",
+    "ロ": null,
+    "ハ": "． 35",
+    "ニ": "． 45 ． 55"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2025-H1-NONE-Q009.png",
+  "wiring_diagram_image": null
+}

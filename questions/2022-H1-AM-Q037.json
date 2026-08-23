@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-AM-Q037",
+  "question_text": "⑦で示す部分の接地工事の接地抵抗の最大値 と，電線 ( 軟銅線 ) の最小太さとの組合せで， 適切なものは 。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2022-H1-AM-Q037.png",
+  "wiring_diagram_image": "diagrams/2022-H1-AM-wiring.png"
+}

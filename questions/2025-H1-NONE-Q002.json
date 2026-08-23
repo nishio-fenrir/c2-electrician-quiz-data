@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H1-NONE-Q002",
+  "question_text": "直径 1.6 mm ，長さ 8 m の軟銅線と電気抵抗 が等しくなる長さ 32 m の軟銅線の直径［ mm ］ は。 ただし，軟銅線の抵抗率は同一とする。",
+  "choices": {
+    "イ": "． 0.8",
+    "ロ": null,
+    "ハ": "． 2.0",
+    "ニ": "． 3.2 ． 6.4"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2025-H1-NONE-Q002.png",
+  "wiring_diagram_image": null
+}

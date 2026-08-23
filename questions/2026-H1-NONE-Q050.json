@@ -1,0 +1,13 @@
+{
+  "qid": "2026-H1-NONE-Q050",
+  "question_text": "この配線図の図記号で 使用 イ ． ロ ． ハ されていない スイッチは。 ただし，写真下の図は，接 点の構成を示す。 3 0 1",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2026-H1-NONE-Q050.png",
+  "wiring_diagram_image": "diagrams/2026-H1-NONE-wiring.png"
+}

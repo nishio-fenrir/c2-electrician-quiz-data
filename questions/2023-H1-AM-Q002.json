@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-AM-Q002",
+  "question_text": "抵抗率  ［  ・ m ］，直径 D ［ mm ］，長さ L ［ m ］の導線の電気抵抗 ［  ］ を表す式は。",
+  "choices": {
+    "イ": "4 10   L ． 2  D",
+    "ロ": null,
+    "ハ": "2   L 6 ． 2 10  D",
+    "ニ": "2   L 6   L 64 10 64 10 ． ． D D"
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2023-H1-AM-Q002.png",
+  "wiring_diagram_image": null
+}

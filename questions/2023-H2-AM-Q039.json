@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-AM-Q039",
+  "question_text": "⑨で示す引込口開閉器が省略できる場合の , イ 住宅と車庫との間の電路の長さの最大値 ［ m ］は 。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2023-H2-AM-Q039.png",
+  "wiring_diagram_image": "diagrams/2023-H2-AM-wiring.png"
+}

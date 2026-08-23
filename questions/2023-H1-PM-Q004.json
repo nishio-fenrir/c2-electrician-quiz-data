@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-PM-Q004",
+  "question_text": "単相交流回路で 200 V の電圧を力率 90 ％の 負荷に加えたとき， 15 A の電流が流れた。負荷 の消費電力［ kW ］は。",
+  "choices": {
+    "イ": "． 2.4",
+    "ロ": "． 2.7",
+    "ハ": "． 3.0",
+    "ニ": "． 3.3"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2023-H1-PM-Q004.png",
+  "wiring_diagram_image": null
+}

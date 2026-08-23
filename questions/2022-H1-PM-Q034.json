@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-PM-Q034",
+  "question_text": "④で示す部分は抜け止め形の防雨形コンセン トである。その図記号の傍記表示は。",
+  "choices": {
+    "イ": "L",
+    "ロ": "． ． ．",
+    "ハ": "T",
+    "ニ": "K LK"
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2022-H1-PM-Q034.png",
+  "wiring_diagram_image": "diagrams/2022-H1-PM-wiring.png"
+}

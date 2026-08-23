@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H1-NONE-Q005",
+  "question_text": "図のような三相 3 線式回路に流れる電流 I [ A ]は。 I ［ A ］ 8 W 6 W 200 V 6 W 6 W φ 3W 200 V3 8 W 8 W 電 源 I ［ A ］ 200 V I ［ A ］",
+  "choices": {
+    "イ": "． 8.3",
+    "ロ": null,
+    "ハ": "． 11.6",
+    "ニ": "． 14.3 ． 20.0"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2025-H1-NONE-Q005.png",
+  "wiring_diagram_image": null
+}

@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H1-NONE-Q006",
+  "question_text": "図のように，電線のこう長 8 m の配線に より，消費電力 2 000 W の抵抗負荷に電力を 供給した結果，負荷の両端の電圧は 100 V で あった。配線における電圧降下［ V ］は。 ただし，電線の電気抵抗は長さ 1 000 m 当た り 3.2 とする。 イ 8 1 φ 2W 抵抗負荷 電 源 2 000 W 8 m",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2024-H1-NONE-Q006.png",
+  "wiring_diagram_image": null
+}

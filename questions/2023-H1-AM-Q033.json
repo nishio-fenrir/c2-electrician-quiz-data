@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-AM-Q033",
+  "question_text": "③で示す器具の接地工事における接地抵抗の 許容される最大値［ W ］は。 イ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2023-H1-AM-Q033.png",
+  "wiring_diagram_image": "diagrams/2023-H1-AM-wiring.png"
+}

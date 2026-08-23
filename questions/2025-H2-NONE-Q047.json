@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H2-NONE-Q047",
+  "question_text": "⑰で示すボックス内の接続を イ ． ロ ． ハ ただし，使用する電線は すべて圧着接続とする場合， 小 小 使用するリングスリーブの ２個 ２個 種類と最少個数の組合せで， ルの心線数は最少とする。 続後の刻印との組合せで，",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2025-H2-NONE-Q047.png",
+  "wiring_diagram_image": "diagrams/2025-H2-NONE-wiring.png"
+}

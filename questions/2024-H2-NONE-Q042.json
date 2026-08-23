@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H2-NONE-Q042",
+  "question_text": "⑫で示すジョイントボック イ ． ロ ． ハ ス内の接続をすべて圧着接 続とする場合，使用するリ 小 中 大 小 ングスリーブの種類と最少 ６個 ３個 ３個 ３個 個数の組合せで， 正しいも のは 。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2024-H2-NONE-Q042.png",
+  "wiring_diagram_image": "diagrams/2024-H2-NONE-wiring.png"
+}

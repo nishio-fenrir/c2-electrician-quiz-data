@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-AM-Q003",
+  "question_text": "100 V の電圧を 2 時間 30 分加え た 3 抵抗に とき，電力量が 4 kW ・ h であった。抵抗 に 流れる電流［ A ］は。",
+  "choices": {
+    "イ": "． 16",
+    "ロ": null,
+    "ハ": "． 24",
+    "ニ": "． 32 ． 40"
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2023-H1-AM-Q003.png",
+  "wiring_diagram_image": null
+}

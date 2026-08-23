@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H2-NONE-Q016",
+  "question_text": "写真に示す材料の名称は。 なお，材料の表面には「 タイシガイセン EM600V EEF/F1.6mm JIS JET＜PS＞E○○社タイ ばならない時間［分］の限度(最大の時間)は。",
+  "choices": {
+    "イ": "． 20",
+    "ロ": "． 30",
+    "ハ": "． 60",
+    "ニ": "． 120"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2024-H2-NONE-Q016.png",
+  "wiring_diagram_image": null
+}

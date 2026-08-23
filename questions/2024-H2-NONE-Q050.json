@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H2-NONE-Q050",
+  "question_text": "⑳で示す図記号の電線管を イ ． ロ ． ハ モーターに接続するために",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2024-H2-NONE-Q050.png",
+  "wiring_diagram_image": "diagrams/2024-H2-NONE-wiring.png"
+}

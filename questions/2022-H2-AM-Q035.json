@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-AM-Q035",
+  "question_text": "2 1 2 2 ⑤の部分で施設する配線用遮断器は。 ． 極 素子 ． 極 素子",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2022-H2-AM-Q035.png",
+  "wiring_diagram_image": "diagrams/2022-H2-AM-wiring.png"
+}

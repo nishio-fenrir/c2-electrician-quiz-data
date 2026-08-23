@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-PM-Q033",
+  "question_text": "③で示す部分の接地工事の種類及びその接地 イ ロ 抵抗の許容される最大値［ ］の組合せとし W ハ ニ て， 。 正しいものは",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2022-H1-PM-Q033.png",
+  "wiring_diagram_image": "diagrams/2022-H1-PM-wiring.png"
+}

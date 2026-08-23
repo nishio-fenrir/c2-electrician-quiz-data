@@ -1,0 +1,13 @@
+{
+  "qid": "2026-H1-NONE-Q038",
+  "question_text": "⑧で示す器具は抜け止め形の防雨形コンセン イ トである。その図記号の傍記表示は。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2026-H1-NONE-Q038.png",
+  "wiring_diagram_image": "diagrams/2026-H1-NONE-wiring.png"
+}

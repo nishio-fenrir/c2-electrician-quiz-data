@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-PM-Q004",
+  "question_text": "図のような交流回路の力率 ［％］ を示す式は。 R ［ W ］ ［ W ］",
+  "choices": {
+    "イ": "100 RX ． R X ＋",
+    "ロ": "100 ． 2 2 R X ＋",
+    "ハ": "．",
+    "ニ": "100 ． 2 2 R X ＋ R X ＋"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2022-H2-PM-Q004.png",
+  "wiring_diagram_image": null
+}

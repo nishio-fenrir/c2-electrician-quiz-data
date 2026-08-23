@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-PM-Q026",
+  "question_text": "直読式接地抵抗計 ( アーステスタ ) を使用し て直読で， 接地抵抗を測定する場合， 被測定接 地極 E に対する， 2 つの補助接地極 P ( 電圧用 ) 及び C ( 電流用 ) の配置として， 最も適切なもの は 。",
+  "choices": {
+    "イ": "P E C",
+    "ロ": "PE C",
+    "ハ": "10 m 10 m PE C 10 m 10 m",
+    "ニ": "10 m 10 m E 10 m 10 m P C 10 m"
+  },
+  "correct_answer": "ハ",
+  "question_image": null,
+  "wiring_diagram_image": null
+}

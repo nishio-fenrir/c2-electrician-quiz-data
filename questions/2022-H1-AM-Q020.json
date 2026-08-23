@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-AM-Q020",
+  "question_text": "電気設備の簡易接触防護措置としての最小 高さの組合せとして， 正しいものは 。 ただし， 人が通る場所から容易に触れること のない範囲に施設する。 屋内で床面 屋外で地表面 からの最 小 高さ [ m ] a 1.6 e 2 b 1.7 f 2.1 g c 1.8 2.2 d 1.9 h 2.3",
+  "choices": {
+    "イ": "． a ， h",
+    "ロ": "． b ， g",
+    "ハ": "． c ， e",
+    "ニ": "． d ， f"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2022-H1-AM-Q020.png",
+  "wiring_diagram_image": null
+}

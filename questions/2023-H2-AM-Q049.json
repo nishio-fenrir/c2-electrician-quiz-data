@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-AM-Q049",
+  "question_text": "この配線図の図記号で， 使イ ． ロ ． ハ 用されていない コンセント",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2023-H2-AM-Q049.png",
+  "wiring_diagram_image": "diagrams/2023-H2-AM-wiring.png"
+}

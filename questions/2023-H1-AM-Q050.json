@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-AM-Q050",
+  "question_text": "この配線図の施工に関し イ ． ロ ． ハ 正しいものは。 小 ４個 中 １個 中 １個 て，一般的に使用するもの 小 ４個 ただし，使用する電線は すべて VVF1.6 とする。 ただし，写真下の図は，接 また，写真に示す リング スリーブ中央 の 〇，小，中 は刻印を表す。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2023-H1-AM-Q050.png",
+  "wiring_diagram_image": "diagrams/2023-H1-AM-wiring.png"
+}

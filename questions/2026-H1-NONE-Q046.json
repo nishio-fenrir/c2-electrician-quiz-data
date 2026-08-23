@@ -1,0 +1,13 @@
+{
+  "qid": "2026-H1-NONE-Q046",
+  "question_text": "「切」で点灯 「入」で点灯 46 ⑯で示す図記号の器具は。 イ ． ロ ． ハ ただし，写真に示す点滅器 は， 「ワイド形」である。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2026-H1-NONE-Q046.png",
+  "wiring_diagram_image": "diagrams/2026-H1-NONE-wiring.png"
+}

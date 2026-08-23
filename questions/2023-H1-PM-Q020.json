@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-PM-Q020",
+  "question_text": "次表は使用電圧 100 V の屋内配線の施設 場所による工事の種類を示す表である。 表中の a ～ f のうち， 「施設できない工事」 を全て選ん だ組合せとして，正しいものは 。 工事の種類 金 属 施設場所の区分 展開した場所で湿気の 多い場所 a b c 点検できる隠ぺい場所 線",
+  "choices": {
+    "イ": "a ， b ， c",
+    "ロ": "a ， c",
+    "ハ": "b ， e",
+    "ニ": "d ， e ， f"
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2023-H1-PM-Q020.png",
+  "wiring_diagram_image": null
+}

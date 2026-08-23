@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-AM-Q001",
+  "question_text": "図のような回路で，電流計 A の値が 1 A を 示した。 このときの電圧計 の指示値 ［ V ］ は。 V 4 W 4 W 8 W 4 W A V 4 W",
+  "choices": {
+    "イ": "． 16",
+    "ロ": "． 32",
+    "ハ": "． 40",
+    "ニ": "． 48"
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2022-H1-AM-Q001.png",
+  "wiring_diagram_image": null
+}

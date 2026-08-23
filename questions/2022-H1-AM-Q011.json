@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-AM-Q011",
+  "question_text": "定格電流 30 A の配線用遮断器で保護される 分岐回路の電線 ( 軟銅線 ) の太さと，接続でき るコンセントの図記号の組合せとして， 適切 なものは 。 ただし，コンセントは兼用コンセントでは ないものとする。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2022-H1-AM-Q011.png",
+  "wiring_diagram_image": null
+}

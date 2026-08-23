@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H2-NONE-Q034",
+  "question_text": "④で示す電線の種類は。 イ．",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2024-H2-NONE-Q034.png",
+  "wiring_diagram_image": "diagrams/2024-H2-NONE-wiring.png"
+}

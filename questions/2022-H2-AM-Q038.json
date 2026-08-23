@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-AM-Q038",
+  "question_text": "⑧で示す部分に波付硬質合成樹脂管を施工し たい。その図記号の傍記表示は。",
+  "choices": {
+    "イ": "PF",
+    "ロ": "． ． ． ．",
+    "ハ": "HIVE",
+    "ニ": "FEP HIVP"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2022-H2-AM-Q038.png",
+  "wiring_diagram_image": "diagrams/2022-H2-AM-wiring.png"
+}

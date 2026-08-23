@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H2-NONE-Q001",
+  "question_text": "図のような回路で，端子 ［ 6 W 2 W 3 W a 2 W 6 W",
+  "choices": {
+    "イ": "． 1",
+    "ロ": "． 2",
+    "ハ": "． 3",
+    "ニ": "． 4"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2024-H2-NONE-Q001.png",
+  "wiring_diagram_image": null
+}

@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H1-NONE-Q040",
+  "question_text": "⑩の部分の最少電線本数(心線数)は。",
+  "choices": {
+    "イ": null,
+    "ロ": "． 2",
+    "ハ": "． 3",
+    "ニ": "． 4 ． 5"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2024-H1-NONE-Q040.png",
+  "wiring_diagram_image": "diagrams/2024-H1-NONE-wiring.png"
+}

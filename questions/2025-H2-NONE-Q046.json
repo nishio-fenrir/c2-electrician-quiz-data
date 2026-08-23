@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H2-NONE-Q046",
+  "question_text": "イ 46 ⑯で示すボックス内の接続 ． ロ ． ハ をリングスリーブで圧着接 続した場合のリングスリー 正しいものは 。 小 小 ○ ○ なお，ボックスからスイッ チ(ク,ケ,コ)に至るケーブ ブの種類，個数及び圧着接 小 ５個 小 ５個 小 ４個 小 ４個",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2025-H2-NONE-Q046.png",
+  "wiring_diagram_image": "diagrams/2025-H2-NONE-wiring.png"
+}

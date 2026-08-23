@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-PM-Q033",
+  "question_text": "③で示す部分の最少電線本数(心線数)は。 イ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2023-H2-PM-Q033.png",
+  "wiring_diagram_image": "diagrams/2023-H2-PM-wiring.png"
+}

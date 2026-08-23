@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-PM-Q005",
+  "question_text": "図のような三相 3 線式回路に流れる電流 I ［ A ］は。 I ［ A ］ 10 W 200 V 3 φ 3W 10 W 10 W 200 V 電 源 200 V",
+  "choices": {
+    "イ": "． 8.3",
+    "ロ": null,
+    "ハ": "． 11.6",
+    "ニ": "． 14.3 ． 20.0"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2023-H1-PM-Q005.png",
+  "wiring_diagram_image": null
+}

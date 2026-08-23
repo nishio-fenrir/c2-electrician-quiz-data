@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-AM-Q036",
+  "question_text": "イ． ⑥で示す部分に施設してはならない過電流遮 ２極にヒューズを取り付けたカバー付ナイフスイッチ 断装置は。 ２極２素子の配線用遮断器",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2022-H1-AM-Q036.png",
+  "wiring_diagram_image": "diagrams/2022-H1-AM-wiring.png"
+}

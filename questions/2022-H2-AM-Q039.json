@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-AM-Q039",
+  "question_text": "C 10 ⑨で示す部分の接地工事の種類及びその接地 ． 種接地工事 抵抗の許容される最大値［ ］の組合せとし ． 種接地工事 W W て， 。 ． 種接地工事 正しいものは ハ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2022-H2-AM-Q039.png",
+  "wiring_diagram_image": "diagrams/2022-H2-AM-wiring.png"
+}

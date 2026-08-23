@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H1-NONE-Q031",
+  "question_text": "①で示す引込線取付点の地表上の高さの最低 ６．ジョイントボックスを経由する電線は，すべて接続箇所を設けている。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2025-H1-NONE-Q031.png",
+  "wiring_diagram_image": "diagrams/2025-H1-NONE-wiring.png"
+}

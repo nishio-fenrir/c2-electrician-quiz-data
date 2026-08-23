@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-AM-Q014",
+  "question_text": "定格周波数 60 Hz ，極数 4 の低圧三相かご形 誘導電動機の同期速度［ min-1 ］は。 イ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2023-H1-AM-Q014.png",
+  "wiring_diagram_image": null
+}

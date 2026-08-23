@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H1-NONE-Q049",
+  "question_text": "⑲で示すボックス内の接続 合，使用するリングスリー 大 イ ． ロ ． ハ ブの種類と最少個数の組合 ２個 をリングスリーブで圧着接 せで， 続した場合のリングスリー 正しいものは。 大 中 小 ただし，接地線の配線も含 ３個 ３個 ３個 ブの種類，個数及び圧着接 ○ ○ まれるものとする。 ○",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2024-H1-NONE-Q049.png",
+  "wiring_diagram_image": "diagrams/2024-H1-NONE-wiring.png"
+}

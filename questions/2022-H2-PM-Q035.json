@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-PM-Q035",
+  "question_text": "⑤で示す部分の電路と大地間の絶縁抵抗として， 許容される最小値［ M W ］は。",
+  "choices": {
+    "イ": null,
+    "ロ": "． 0.1",
+    "ハ": "． 0.2",
+    "ニ": "． 0.4 ． 1.0"
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2022-H2-PM-Q035.png",
+  "wiring_diagram_image": "diagrams/2022-H2-PM-wiring.png"
+}

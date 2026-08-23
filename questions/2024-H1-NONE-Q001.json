@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H1-NONE-Q001",
+  "question_text": "図のような回路で， 8 の抵抗での消費電力 ［ W ］は。 20 W 8 W 30 W 200 V",
+  "choices": {
+    "イ": "． 200",
+    "ロ": "． 800",
+    "ハ": "． 1 200",
+    "ニ": "． 2 000"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2024-H1-NONE-Q001.png",
+  "wiring_diagram_image": null
+}

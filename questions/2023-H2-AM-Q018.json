@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-AM-Q018",
+  "question_text": "写真に示す工具の電気工事における用途は 。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2023-H2-AM-Q018.png",
+  "wiring_diagram_image": null
+}

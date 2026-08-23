@@ -1,0 +1,13 @@
+{
+  "qid": "2026-H1-NONE-Q003",
+  "question_text": "消費電力が 300 W の電熱器を， 2 時間使用 したときの発熱量［ kJ ］は。",
+  "choices": {
+    "イ": "． 600",
+    "ロ": "． 1 080",
+    "ハ": "． 2 160",
+    "ニ": "． 3 600"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2026-H1-NONE-Q003.png",
+  "wiring_diagram_image": null
+}

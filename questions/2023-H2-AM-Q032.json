@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-AM-Q032",
+  "question_text": "②で示す部分の図記号の傍記表示「 WP 」の意 味は。",
+  "choices": {
+    "イ": null,
+    "ロ": "．防雨形",
+    "ハ": "．防爆形",
+    "ニ": "．屋外形 ．防滴形"
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2023-H2-AM-Q032.png",
+  "wiring_diagram_image": "diagrams/2023-H2-AM-wiring.png"
+}

@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-PM-Q009",
+  "question_text": "定格電流 Ｂ Ｍ 10 A 定格電流 Ｍ Ｂ 幹線 30 A Ｂ 定格電流 Ｂ Ｈ 15 A 図のように，三相の電動機と電熱器が低圧 定格電流 Ｂ Ｈ 15 A 屋内幹線に接続されている場合，幹線の太さ を決める根拠となる電流の最小値［ A ］は。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2022-H1-PM-Q009.png",
+  "wiring_diagram_image": null
+}

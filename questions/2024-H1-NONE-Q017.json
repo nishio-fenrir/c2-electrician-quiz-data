@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H1-NONE-Q017",
+  "question_text": "写真に示す器具の名称は。",
+  "choices": {
+    "イ": "．キーソケット",
+    "ロ": "．線付防水ソケット",
+    "ハ": "．プルソケット",
+    "ニ": "．ランプレセプタクル"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2024-H1-NONE-Q017.png",
+  "wiring_diagram_image": null
+}

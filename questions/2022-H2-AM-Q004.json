@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-AM-Q004",
+  "question_text": "図のような交流回路において，抵抗 12 の両端の電圧 V ［ V ］は。 12 W [ V ] 200 V 16 W",
+  "choices": {
+    "イ": "． 86",
+    "ロ": null,
+    "ハ": "． 114",
+    "ニ": "． 120 ． 160"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2022-H2-AM-Q004.png",
+  "wiring_diagram_image": null
+}

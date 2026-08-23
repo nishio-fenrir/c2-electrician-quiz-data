@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-AM-Q006",
+  "question_text": "図のような三相 3 線式回路で，電線 1 線 当たりの抵抗が 0.15  ，線電流が 10 A この配線の電力損失［ W ］は。 10 A 0.15  三 相 10 A 3 φ 3W 抵 電 源 0.15  10 A 荷 0.15 ",
+  "choices": {
+    "イ": "． 15",
+    "ロ": null,
+    "ハ": "． 26",
+    "ニ": "． 30 ． 45"
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2023-H1-AM-Q006.png",
+  "wiring_diagram_image": null
+}

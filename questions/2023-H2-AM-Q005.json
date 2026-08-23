@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-AM-Q005",
+  "question_text": "図のような電源電圧 E [ V ]の三相 3 線式回路 で， 図中の 印点で断線した場合， 断線後の 間 ac の抵抗 R ［ I ［ A ］を示す 式は。 a I ［ A ］ E ［ V ］ R [ W ］ R [ W ］ 3 φ 3W E ［ V ］ bc 電 源 R [ W ］ E ［ V ］",
+  "choices": {
+    "イ": "E ． 2 R",
+    "ロ": null,
+    "ハ": "E ． 3 R",
+    "ニ": "E 3 E ． ． R 2 R"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2023-H2-AM-Q005.png",
+  "wiring_diagram_image": null
+}

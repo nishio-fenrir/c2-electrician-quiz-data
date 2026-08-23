@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-PM-Q005",
+  "question_text": "8 W 6 W 200 V 6 W 8 W 3 φ 3W 200 V 電 源 8 W 6 W 200 V 図 の よ う な 三 相 3 線 式 回 路 の 全 消 費 電 力",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2022-H1-PM-Q005.png",
+  "wiring_diagram_image": null
+}

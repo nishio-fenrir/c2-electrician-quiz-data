@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-PM-Q012",
+  "question_text": "使 用 電 圧 が 300 V 以 下 の屋 内 に 施 設 す る 器 具 で あ っ て ， 付 属す る移 動 電 線 に ビ ニル コードが 使用できるものは 。",
+  "choices": {
+    "イ": "．電気扇風機",
+    "ロ": "．電気こたつ",
+    "ハ": "．電気こんろ",
+    "ニ": "．電気トースター"
+  },
+  "correct_answer": "イ",
+  "question_image": null,
+  "wiring_diagram_image": null
+}

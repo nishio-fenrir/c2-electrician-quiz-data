@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H1-NONE-Q044",
+  "question_text": "⑭で示す部分の配線工事に イ ． ロ ． ハ 必要なケーブルは。 ものは 。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2025-H1-NONE-Q044.png",
+  "wiring_diagram_image": "diagrams/2025-H1-NONE-wiring.png"
+}

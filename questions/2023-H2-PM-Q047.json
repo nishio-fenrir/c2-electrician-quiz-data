@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-PM-Q047",
+  "question_text": "⑰で示すボックス内の接続 イ ． ロ ． ハ をすべて差込形コネクタと る。 する場合， 使用する差込形 ２個 ３個 コネクタの種類と最少個数 ３個 ２個",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2023-H2-PM-Q047.png",
+  "wiring_diagram_image": "diagrams/2023-H2-PM-wiring.png"
+}

@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-PM-Q045",
+  "question_text": "⑮で示すボックス内の接続 イ ． ロ ． ハ をリングスリーブで圧着接 続した場合のリングスリー ブの種類，個数及び圧着接 ○ ○ 続後の刻印との組合せで， 正しいものは 。 ただし，使用する電線は 小 小 ○",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2023-H1-PM-Q045.png",
+  "wiring_diagram_image": "diagrams/2023-H1-PM-wiring.png"
+}

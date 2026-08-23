@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-PM-Q048",
+  "question_text": "この配線図の図記号から， イ ． ロ ． ハ この工事で 使用されていな い スイッチは。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2023-H1-PM-Q048.png",
+  "wiring_diagram_image": "diagrams/2023-H1-PM-wiring.png"
+}

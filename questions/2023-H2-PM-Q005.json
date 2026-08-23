@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-PM-Q005",
+  "question_text": "図のような三相負荷に三相交流電圧を加え たとき，各線に 20 A の電流が流れた。線間電圧 E ［ V ］は。 20 A 6 W E [ V ］ 3 φ 3W 6 W 6 W E [ V ］ 20 A 電 源 E [ V ］ 20 A",
+  "choices": {
+    "イ": "． 120",
+    "ロ": null,
+    "ハ": "． 173",
+    "ニ": "． 208 ． 240"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2023-H2-PM-Q005.png",
+  "wiring_diagram_image": null
+}

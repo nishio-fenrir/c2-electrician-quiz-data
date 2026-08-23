@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-PM-Q007",
+  "question_text": "抵抗 7 図のような単相 3 線式回路で，電線 1 線 負荷 当たりの抵抗が r ［ I ［ A ］， 中性線に流れる電流が 0 A のとき，電圧降下 ( V s － V r )［ V ］を示す式は。 I [ A ] 負荷 r [ W ] 抵抗 V s r 0 A 1 φ 3W 電 源 r [ W ] 抵抗 V s V r 負荷 I [ A ] r [ W ]",
+  "choices": {
+    "イ": "． 2 r I",
+    "ロ": null,
+    "ハ": "． 3 r I",
+    "ニ": "． r I ． 3"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2023-H1-PM-Q007.png",
+  "wiring_diagram_image": null
+}

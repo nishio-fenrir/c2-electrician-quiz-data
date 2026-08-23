@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-AM-Q050",
+  "question_text": "こ の 配 線 図 の 施 工 に 関 し イ ． ロ ． ハ て，一般的に使用するもの の組合せで， 不適切なもの は 。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2022-H2-AM-Q050.png",
+  "wiring_diagram_image": "diagrams/2022-H2-AM-wiring.png"
+}

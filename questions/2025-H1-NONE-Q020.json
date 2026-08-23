@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H1-NONE-Q020",
+  "question_text": "低圧屋内配線工事(臨時配線工事の場合 a ：電線の絶縁物と同等以上の絶縁効力のある もので十分に被覆した。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2025-H1-NONE-Q020.png",
+  "wiring_diagram_image": null
+}

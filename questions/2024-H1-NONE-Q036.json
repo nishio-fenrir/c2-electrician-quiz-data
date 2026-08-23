@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H1-NONE-Q036",
+  "question_text": "⑥で示す部分の接地工事の種類及びその接地 抵抗の許容される最大値[ W ]の組合せとして， 正しいものは。 なお，引込線の電源側には地絡遮断装置は 設置されていない。",
+  "choices": {
+    "イ": "． C 種接地工事 10 W",
+    "ロ": "． C 種接地工事 50 W",
+    "ハ": "． D 種接地工事 100 W",
+    "ニ": "． D 種接地工事 500 W"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2024-H1-NONE-Q036.png",
+  "wiring_diagram_image": "diagrams/2024-H1-NONE-wiring.png"
+}

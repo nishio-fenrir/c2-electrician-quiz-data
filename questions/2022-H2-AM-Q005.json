@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-AM-Q005",
+  "question_text": "図のような電源電圧 E ［ V ］ の三相 3 線式回路 で，図中の✕ a - c 間の抵抗 R ［ I ［ A ］を 示す式は。 a I ［ A ］ E [ V ] R [ W ] R [ W ] 3 φ 3W E [ V ] 電 源 bc R [ W ] E [ V ]",
+  "choices": {
+    "イ": "E ． 2 R",
+    "ロ": "E ． 3 R",
+    "ハ": "． R",
+    "ニ": "E ． 2 R"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2022-H2-AM-Q005.png",
+  "wiring_diagram_image": null
+}

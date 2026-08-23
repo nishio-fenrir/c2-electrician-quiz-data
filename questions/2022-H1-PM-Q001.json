@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-PM-Q001",
+  "question_text": "図のような回路で，スイッチ S を閉じたと き， V ］は。 30 W 30 W 30 W a S 100 V 30 W b",
+  "choices": {
+    "イ": "． 30",
+    "ロ": "． 40",
+    "ハ": "． 50",
+    "ニ": "． 60"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2022-H1-PM-Q001.png",
+  "wiring_diagram_image": null
+}

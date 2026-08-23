@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-PM-Q006",
+  "question_text": "図のような単相 2 線式回路において， 間 d d´ の電圧が 100 V のとき 間の電圧［ V a a´ ］は。 r r r ただし， ， 及び は電線の電気抵抗［ 1 とする。 r a r b 2 r 1 3 5 A5 A10 A 1 φ 2W 抵抗 抵抗 電 源 負荷 r r r 1 2 3 a´ b´ c´ d´",
+  "choices": {
+    "イ": "． 102",
+    "ロ": null,
+    "ハ": "． 103",
+    "ニ": "． 104 ． 105"
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2023-H1-PM-Q006.png",
+  "wiring_diagram_image": null
+}

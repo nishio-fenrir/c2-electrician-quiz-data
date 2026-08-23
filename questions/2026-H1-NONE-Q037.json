@@ -1,0 +1,13 @@
+{
+  "qid": "2026-H1-NONE-Q037",
+  "question_text": "⑦で示すコンセントの極配置(刃受) は。 イ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ニ",
+  "question_image": "images/2026-H1-NONE-Q037.png",
+  "wiring_diagram_image": "diagrams/2026-H1-NONE-wiring.png"
+}

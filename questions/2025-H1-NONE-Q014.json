@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H1-NONE-Q014",
+  "question_text": "極数 6 の一般用三相かご形誘導電動機を 周波数 50 Hz で使用するとき， 最も近い回転 速度[ min-1 ]は。",
+  "choices": {
+    "イ": "． 500",
+    "ロ": "． 1 000",
+    "ハ": null,
+    "ニ": "． 1 500 ． 3 000"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2025-H1-NONE-Q014.png",
+  "wiring_diagram_image": null
+}

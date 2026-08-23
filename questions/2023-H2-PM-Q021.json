@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-PM-Q021",
+  "question_text": "店舗付き住宅の屋内に三相 3 線式 200 V 定格消費電力 2.5 kW のルームエアコンを施設 した。このルームエアコンに電気を供給する 電路の工事方法として， 適切なものは 。 ただし， 配線は接触防護措置を施し， ルーム エアコン外箱等の人が触れるおそれがあ る 部分は絶縁性のある材料で堅ろうに作られて",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2023-H2-PM-Q021.png",
+  "wiring_diagram_image": null
+}

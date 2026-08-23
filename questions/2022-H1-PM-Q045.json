@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-PM-Q045",
+  "question_text": "イ ロ ハ ニ ⑮で示すボックス内の接続を ． ． ． ． すべて圧着接続とする場合， 使用するリングスリーブの 種類と最少個数の組合せで， の心線数は最少とする。 小 小正しいものは。 た だ し ， 使 用 す る 電 線 は ４個 ５個 すべて とする。 VVF1.6",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2022-H1-PM-Q045.png",
+  "wiring_diagram_image": "diagrams/2022-H1-PM-wiring.png"
+}

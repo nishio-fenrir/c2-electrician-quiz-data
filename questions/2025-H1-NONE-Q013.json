@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H1-NONE-Q013",
+  "question_text": "電気工事の種類と， その工事に使用する工具 との組合せで， 適切なものは 。 イ 使用できる最も消費電力の大きな電熱器具は。 ただし，電熱器具の定格電圧は 100 V で",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2025-H1-NONE-Q013.png",
+  "wiring_diagram_image": null
+}

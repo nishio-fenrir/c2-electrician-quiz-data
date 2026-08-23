@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-PM-Q011",
+  "question_text": "プルボックスの主な使用目的は。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2023-H2-PM-Q011.png",
+  "wiring_diagram_image": null
+}

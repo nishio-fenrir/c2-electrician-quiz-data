@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-AM-Q001",
+  "question_text": "図のような直流回路に流れる電流 I ［ A ］は。 2 W 2 W I ［ A ］ 16 V 4 W 4 W 4 W",
+  "choices": {
+    "イ": "． 1",
+    "ロ": null,
+    "ハ": "． 2",
+    "ニ": "． 4 ． 8"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2022-H2-AM-Q001.png",
+  "wiring_diagram_image": null
+}

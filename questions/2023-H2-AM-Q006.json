@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H2-AM-Q006",
+  "question_text": "図のような単相 2 線式回路で， c  c’ 間の電圧 が 100 V のとき， a  a’ 間の電圧［ V ］は。 ただし， 及び は電線の電気抵抗［  ］と r r 1 する。 a r   bc r   1 0.05 2 0.1 5 A5 A 1 φ 2W 抵抗 抵抗 100 V 負荷 電 源 r   r   1 0.05 2 0.1 a ’ b ’ c ’",
+  "choices": {
+    "イ": "． 101",
+    "ロ": null,
+    "ハ": "． 102",
+    "ニ": "． 103 ． 104"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2023-H2-AM-Q006.png",
+  "wiring_diagram_image": null
+}

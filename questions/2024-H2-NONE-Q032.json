@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H2-NONE-Q032",
+  "question_text": "②で示す引込口開閉器が省略できる場合の， 工場と倉庫との間の電路の長さの最大値［ m ] イ． は。 ６．３路スイッチの記号「０」の端子には，電源側又は負荷側の電線を結線する。",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2024-H2-NONE-Q032.png",
+  "wiring_diagram_image": "diagrams/2024-H2-NONE-wiring.png"
+}

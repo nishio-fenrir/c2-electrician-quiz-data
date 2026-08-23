@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-AM-Q016",
+  "question_text": "写真に示 す材料の用途は。",
+  "choices": {
+    "イ": "． PF 管を支持するのに用いる。",
+    "ロ": "．照明器具を固定するのに用いる。",
+    "ハ": "．ケーブルを束線するのに用いる。",
+    "ニ": "．金属線ぴを支持するのに用いる。"
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2022-H1-AM-Q016.png",
+  "wiring_diagram_image": null
+}

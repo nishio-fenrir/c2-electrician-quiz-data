@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H1-NONE-Q041",
+  "question_text": "⑪で示す図記号の機器は。 イ ． ロ ． ハ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2025-H1-NONE-Q041.png",
+  "wiring_diagram_image": "diagrams/2025-H1-NONE-wiring.png"
+}

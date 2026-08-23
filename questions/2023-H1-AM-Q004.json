@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-AM-Q004",
+  "question_text": "図のような回路で，抵抗 R に流れる電流が 4 A ，リアクタンス X に流れる電流が 3 A で あるとき，この回路の消費電力［ W ］は。 4 A 3 A 100 V X",
+  "choices": {
+    "イ": "． 300",
+    "ロ": null,
+    "ハ": "． 400",
+    "ニ": "． 500 ． 700"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2023-H1-AM-Q004.png",
+  "wiring_diagram_image": null
+}

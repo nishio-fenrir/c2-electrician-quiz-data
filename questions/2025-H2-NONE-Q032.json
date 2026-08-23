@@ -1,0 +1,13 @@
+{
+  "qid": "2025-H2-NONE-Q032",
+  "question_text": "②で示す図記号の器具の種類は。 イ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2025-H2-NONE-Q032.png",
+  "wiring_diagram_image": "diagrams/2025-H2-NONE-wiring.png"
+}

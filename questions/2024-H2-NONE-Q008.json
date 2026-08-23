@@ -1,0 +1,13 @@
+{
+  "qid": "2024-H2-NONE-Q008",
+  "question_text": "金属管による低圧屋内配線工事で，管内に の 断面積 5.5 mm2 600 V ビニル絶縁電線(軟銅 線) 4 本を収めて施設した場合， 電線 1 本当たり の許容電流［ A ］は。 ただし， 周囲温度は 30 ℃以下， 電流減少係数 は 0.63 とする。",
+  "choices": {
+    "イ": "． 19",
+    "ロ": null,
+    "ハ": "． 24",
+    "ニ": "． 31 ． 49"
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2024-H2-NONE-Q008.png",
+  "wiring_diagram_image": null
+}

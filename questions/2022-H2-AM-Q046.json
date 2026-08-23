@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H2-AM-Q046",
+  "question_text": "⑯で示す部分の配線工事に イ ． ロ 必要なケーブルは。 た だ し ， 心 線 数 は 最 少 と する。 ハ ． ニ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "ハ",
+  "question_image": "images/2022-H2-AM-Q046.png",
+  "wiring_diagram_image": "diagrams/2022-H2-AM-wiring.png"
+}

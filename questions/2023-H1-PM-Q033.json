@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-PM-Q033",
+  "question_text": "③で示す部分の工事の種類として， 正しいも イ ．ケーブル工事( のは。 ロ",
+  "choices": {
+    "イ": null,
+    "ロ": null,
+    "ハ": null,
+    "ニ": null
+  },
+  "correct_answer": "イ",
+  "question_image": "images/2023-H1-PM-Q033.png",
+  "wiring_diagram_image": "diagrams/2023-H1-PM-wiring.png"
+}

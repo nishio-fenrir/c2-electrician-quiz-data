@@ -1,0 +1,13 @@
+{
+  "qid": "2023-H1-PM-Q008",
+  "question_text": "V 負荷 8 低圧屋内配線工事に使用する 600 V ビニル 絶縁ビニルシースケーブル丸形(軟銅線)，導体 の直径 2.0 mm ， 3 心の許容電流［ A ］は。 ただし，周囲温度は 30 ℃以下，電流減少 係数は 0.70 とする。",
+  "choices": {
+    "イ": "． 19",
+    "ロ": null,
+    "ハ": "． 24",
+    "ニ": "． 33 ． 35"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2023-H1-PM-Q008.png",
+  "wiring_diagram_image": null
+}

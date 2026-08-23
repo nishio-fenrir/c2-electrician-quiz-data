@@ -1,0 +1,13 @@
+{
+  "qid": "2022-H1-PM-Q017",
+  "question_text": null,
+  "choices": {
+    "イ": "合成樹脂製可とう電線管を接続する。",
+    "ロ": "スイッチやコンセントを取り付ける。",
+    "ハ": "電線の引き入れを容易にする。",
+    "ニ": "合成樹脂でできている。"
+  },
+  "correct_answer": "ロ",
+  "question_image": "images/2022-H1-PM-Q017.png",
+  "wiring_diagram_image": null
+}
